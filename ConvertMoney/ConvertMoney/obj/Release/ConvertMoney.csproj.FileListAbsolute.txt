@@ -1,0 +1,30 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertNum.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\CurrencySymbols.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\Background.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ApplicationIcon.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\Background.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.dll
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.pdb
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\AppManifest.xaml
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.xap
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.csprojResolveAssemblyReference.cache
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\App.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertNum.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\CurrencySymbols.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\MainPage.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.g.resources
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.dll
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.pdb
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\XapCacheFile.xml

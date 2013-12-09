@@ -1,0 +1,13 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Debug\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Debug\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Debug\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Debug\ConvertMoney.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\CurrencySymbols.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Debug\ConvertNum.g.i.cs

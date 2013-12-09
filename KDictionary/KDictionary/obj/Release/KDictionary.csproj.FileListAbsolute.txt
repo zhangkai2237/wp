@@ -1,0 +1,13 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\XapCacheFile.xml

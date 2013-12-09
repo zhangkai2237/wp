@@ -1,0 +1,15 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Microsoft.Phone.Controls.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Microsoft.Phone.Controls.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\XapCacheFile.xml

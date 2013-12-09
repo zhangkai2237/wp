@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <basicHttpBinding>
+                <binding name="IpAddressSearchWebServiceSoap" maxBufferSize="2147483647"
+                    maxReceivedMessageSize="2147483647">
+                    <security mode="None" />
+                </binding>
+            </basicHttpBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://webservice.webxml.com.cn/WebServices/IpAddressSearchWebService.asmx"
+                binding="basicHttpBinding" bindingConfiguration="IpAddressSearchWebServiceSoap"
+                contract="IPService.IpAddressSearchWebServiceSoap" name="IpAddressSearchWebServiceSoap" />
+        </client>
+    </system.serviceModel>
+</configuration>

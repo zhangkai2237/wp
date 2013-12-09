@@ -1,0 +1,14 @@
+﻿<xapCache source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\KBrowser.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/3/7 21:16:28">
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/3/3 22:38:49" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Background.png" archivePath="Background.png" lastWriteTime="2012/3/3 22:15:01" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/3/3 22:15:01" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Release\KBrowser.dll" archivePath="KBrowser.dll" lastWriteTime="2012/3/7 21:16:27" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.back.png" archivePath="Images\appbar.back.png" lastWriteTime="2012/3/1 22:12:12" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.next.png" archivePath="Images\appbar.next.png" lastWriteTime="2012/3/1 22:12:12" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.refresh.png" archivePath="Images\appbar.refresh.png" lastWriteTime="2012/3/1 22:12:12" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/2/29 23:16:34" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/3/3 22:18:05" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\Images\appbar.back.png" archivePath="Images\appbar.back.png" lastWriteTime="2012/3/1 22:12:12" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\Images\appbar.next.png" archivePath="Images\appbar.next.png" lastWriteTime="2012/3/1 22:12:12" />
+  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Release\Images\appbar.refresh.png" archivePath="Images\appbar.refresh.png" lastWriteTime="2012/3/1 22:12:12" />
+</xapCache>
