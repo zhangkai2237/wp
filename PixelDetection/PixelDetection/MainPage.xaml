@@ -39,7 +39,7 @@
                         <GradientStop Color="#FF3D36D3"/>
                     </RadialGradientBrush>
                 </Canvas.Background>
-                <TextBlock Text="点击开始" VerticalAlignment="Center"  HorizontalAlignment="Center" Canvas.Left="187" Canvas.Top="210" />
+                <TextBlock Text="点击开始" VerticalAlignment="Center"  HorizontalAlignment="Center" Canvas.Left="162" Canvas.Top="194" FontWeight="Bold" FontSize="36" />
             </Canvas>
             <HyperlinkButton Content="什么是坏点"  Grid.Row="1" Click="HyperlinkButton_Click" />
         </Grid>
