@@ -1,8 +1,10 @@
-﻿<xapCache source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/4/17 21:40:01">
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/3/3 20:03:18" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Background.png" archivePath="Background.png" lastWriteTime="2012/3/3 19:59:53" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/3/3 19:59:53" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll" archivePath="PixelDetection.dll" lastWriteTime="2012/4/17 21:40:00" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/3/3 10:37:54" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/3/3 20:03:18" />
+﻿<xapCache source="E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2013/12/9 23:02:18">
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2013/12/9 22:38:32" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\Background.png" archivePath="Background.png" lastWriteTime="2012/3/3 19:59:53" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/3/3 19:59:53" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll" archivePath="PixelDetection.dll" lastWriteTime="2013/12/9 23:02:16" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/3/3 10:37:54" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/3/3 20:03:18" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2012/3/3 19:59:53" />
+  <file source="E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/3/3 19:59:53" />
 </xapCache>

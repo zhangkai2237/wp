@@ -44,3 +44,26 @@ F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetecti
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\Background.png
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\ApplicationIcon.png
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.dll
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.pdb
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.csprojResolveAssemblyReference.cache
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\App.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\BlackPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\BluePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\GrayPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\GreenPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\MainPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\OrangePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PurplePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\RedPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\ResultPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\WhitePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\YellowPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.g.resources
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml

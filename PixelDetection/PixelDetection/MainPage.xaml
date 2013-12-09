@@ -32,16 +32,19 @@
                 <RowDefinition Height=".7*" />
                 <RowDefinition Height=".3*" />
             </Grid.RowDefinitions>
-            <TextBlock Grid.Row="0" TextWrapping="Wrap" Margin="20" HorizontalAlignment="Center" Name="textBlock1" VerticalAlignment="Center">
-                <Run FontSize="24">液晶显示屏的坏点又称点缺勤，它是指液晶屏显示黑白两色和红、黄、蓝三原色下所显示的子像素点，每个点是指一个子像素。液晶屏最怕的就是坏点。一旦出现坏点，则不管显示屏所显示出来的图像如何，显示屏上的某一点永远是显示同一种颜色。</Run>
-                <LineBreak />
-                <LineBreak />
-                <Run FontSize="24">本程序会依次显示不同种的纯色，如果发现有不同于整体颜色的斑点即是坏点。</Run>
-            </TextBlock>
-            <TextBlock Text="点击屏幕开始，go!" FontSize="36" Foreground="Red" Grid.Row="1" HorizontalAlignment="center" Name="textBlock2" VerticalAlignment="Center" />
+            <Canvas Grid.Row="0" Tap="Canvas_Tap">
+                <Canvas.Background>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF3D36D3"/>
+                    </RadialGradientBrush>
+                </Canvas.Background>
+                <TextBlock Text="点击开始" VerticalAlignment="Center"  HorizontalAlignment="Center" Canvas.Left="187" Canvas.Top="210" />
+            </Canvas>
+            <HyperlinkButton Content="什么是坏点"  Grid.Row="1" Click="HyperlinkButton_Click" />
         </Grid>
     </Grid>
- 
+
     <!--演示 ApplicationBar 用法的示例代码-->
     <!--<phone:PhoneApplicationPage.ApplicationBar>
         <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">

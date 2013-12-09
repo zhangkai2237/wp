@@ -24,28 +24,38 @@ namespace PixelDetection
             //Touch.FrameReported +=new TouchFrameEventHandler(Touch_FrameReported);
         }
 
-        void Touch_FrameReported(object sender, TouchFrameEventArgs args)
+        //void Touch_FrameReported(object sender, TouchFrameEventArgs args)
+        //{
+        //    TouchPoint primaryTouchPoint = args.GetPrimaryTouchPoint(null);
+        //    if (primaryTouchPoint != null && primaryTouchPoint.Action == TouchAction.Down)
+        //    {
+        //        //Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
+                
+        //    }
+        //}
+
+        //protected override void OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
+        //{
+        //    base.OnNavigatedTo(e);
+
+        //    Touch.FrameReported += new TouchFrameEventHandler(Touch_FrameReported);
+        //}
+
+        //protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
+        //{
+        //    base.OnNavigatedFrom(e);
+
+        //    Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
+        //}
+
+        private void HyperlinkButton_Click(object sender, RoutedEventArgs e)
         {
-            TouchPoint primaryTouchPoint = args.GetPrimaryTouchPoint(null);
-            if (primaryTouchPoint != null && primaryTouchPoint.Action == TouchAction.Down)
-            {
-                //Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
-                NavigationService.Navigate(new Uri("/RedPage.xaml", UriKind.RelativeOrAbsolute));
-            }
+
         }
 
-        protected override void OnNavigatedTo(System.Windows.Navigation.NavigationEventArgs e)
+        private void Canvas_Tap(object sender, GestureEventArgs e)
         {
-            base.OnNavigatedTo(e);
-
-            Touch.FrameReported += new TouchFrameEventHandler(Touch_FrameReported);
-        }
-
-        protected override void OnNavigatedFrom(System.Windows.Navigation.NavigationEventArgs e)
-        {
-            base.OnNavigatedFrom(e);
-
-            Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
+            NavigationService.Navigate(new Uri("/RedPage.xaml", UriKind.RelativeOrAbsolute));
         }
     }
 }
