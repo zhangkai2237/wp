@@ -33,9 +33,17 @@
                 <RowDefinition Height=".3*" />
             </Grid.RowDefinitions>
             <TextBlock Grid.Row="0" TextWrapping="Wrap" Margin="20" HorizontalAlignment="Center" VerticalAlignment="Center">
-                <Run FontSize="36">目前，对手机的坏点问题我国还没有相关的规定和标准，所以各位亲们选购时注意检测！</Run>
+                <Run FontSize="26">假如亲遇到了坏点，首先请不要慌张，如果是还在保修期的产品，请和商家协商处理。如果过了保修期且坏点的位置和亮度并非特别大，不影响正常使用的话，还请放宽心，大部分坏点的影响还是可以接受的。谢谢各位的使用！</Run>
             </TextBlock>
-            <TextBlock Text="点击屏幕退出程序" FontSize="36" Foreground="Red" Grid.Row="1" HorizontalAlignment="center" Name="textBlock2" VerticalAlignment="Center" />
+            <Canvas Grid.Row="1" Tap="Canvas_Tap">
+                <Canvas.Background>
+                    <RadialGradientBrush>
+                        <GradientStop Color="Black" Offset="1"/>
+                        <GradientStop Color="#FF3D36D3"/>
+                    </RadialGradientBrush>
+                </Canvas.Background>
+                <TextBlock Text="点击退出" FontSize="36" HorizontalAlignment="center" Name="textBlock2" VerticalAlignment="Center" Canvas.Left="164" Canvas.Top="68" />
+            </Canvas>
         </Grid>
     </Grid>
  

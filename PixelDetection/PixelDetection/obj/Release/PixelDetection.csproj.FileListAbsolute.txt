@@ -67,3 +67,4 @@ E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.g.resource
 E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
 E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
 E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\Introduction.g.cs

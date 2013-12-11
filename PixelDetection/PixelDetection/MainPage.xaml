@@ -23,7 +23,7 @@
         <!--TitlePanel 包含应用程序的名称和页标题-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
             <TextBlock x:Name="ApplicationTitle" Text="手机坏点检测器" Style="{StaticResource PhoneTextNormalStyle}"/>
-            <TextBlock x:Name="PageTitle" Text="介绍" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock x:Name="PageTitle" Text="开始" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
         </StackPanel>
 
         <!--ContentPanel - 在此处放置其他内容-->
@@ -41,7 +41,7 @@
                 </Canvas.Background>
                 <TextBlock Text="点击开始" VerticalAlignment="Center"  HorizontalAlignment="Center" Canvas.Left="162" Canvas.Top="194" FontWeight="Bold" FontSize="36" />
             </Canvas>
-            <HyperlinkButton Content="什么是坏点"  Grid.Row="1" Click="HyperlinkButton_Click" />
+            <HyperlinkButton Content="什么是坏点and检测原理"  Grid.Row="1" Click="HyperlinkButton_Click" />
         </Grid>
     </Grid>
 

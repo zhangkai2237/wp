@@ -27,7 +27,6 @@ namespace PixelDetection
             if (primaryTouchPoint != null && primaryTouchPoint.Action == TouchAction.Down)
             {
                 //Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
-                App.Quit();
             }
         }
 
@@ -36,6 +35,11 @@ namespace PixelDetection
             base.OnNavigatedFrom(e);
 
             Touch.FrameReported -= new TouchFrameEventHandler(Touch_FrameReported);
+        }
+
+        private void Canvas_Tap(object sender, GestureEventArgs e)
+        {
+            App.Quit();
         }
     }
 }

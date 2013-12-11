@@ -50,7 +50,7 @@ namespace PixelDetection
 
         private void HyperlinkButton_Click(object sender, RoutedEventArgs e)
         {
-
+            NavigationService.Navigate(new Uri("/Introduction.xaml", UriKind.RelativeOrAbsolute));
         }
 
         private void Canvas_Tap(object sender, GestureEventArgs e)
