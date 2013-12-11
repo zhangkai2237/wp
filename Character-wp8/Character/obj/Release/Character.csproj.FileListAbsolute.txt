@@ -1,0 +1,16 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\background.jpg
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\SplashScreenImage.jpg
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\Character.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\Character.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\Character.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\Character.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\Character.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\Character.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\SmartMad.Ads.WindowsPhone7.dll
