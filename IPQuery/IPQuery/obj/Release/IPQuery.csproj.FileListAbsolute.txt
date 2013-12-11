@@ -1,0 +1,11 @@
+E:\GitHub\wp\IPQuery\IPQuery\Bin\Release\IPQuery.dll
+E:\GitHub\wp\IPQuery\IPQuery\Bin\Release\IPQuery.pdb
+E:\GitHub\wp\IPQuery\IPQuery\Bin\Release\AppManifest.xaml
+E:\GitHub\wp\IPQuery\IPQuery\Bin\Release\IPQuery.xap
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\IPQuery.csprojResolveAssemblyReference.cache
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\App.g.cs
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\MainPage.g.cs
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\IPQuery.g.resources
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\IPQuery.dll
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\IPQuery.pdb
+E:\GitHub\wp\IPQuery\IPQuery\obj\Release\XapCacheFile.xml

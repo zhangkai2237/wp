@@ -20,5 +20,20 @@ namespace IPQuery
         {
             InitializeComponent();
         }
+
+        private void IPButton_Click(object sender, RoutedEventArgs e)
+        {
+            IPService2.IpAddressSearchWebServiceSoapClient ip = new IPService2.IpAddressSearchWebServiceSoapClient();
+            ip.getCountryCityByIpCompleted += new EventHandler<IPService2.getCountryCityByIpCompletedEventArgs>(ip_getCountryCityByIpCompleted);
+            ip.getCountryCityByIpAsync(IPTextBox.Text);
+        }
+
+        void ip_getCountryCityByIpCompleted(object sender, IPService2.getCountryCityByIpCompletedEventArgs e)
+        {
+            if (e.Error == null)
+            {
+                IPTextBlock.Text = e.Result[0] + ":" + e.Result[1];
+            }
+        }
     }
 }
