@@ -6,6 +6,7 @@
     xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.WindowsPhone"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
@@ -72,11 +73,12 @@
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <Grid.RowDefinitions>
             <RowDefinition Height="0.2*"/>
-            <RowDefinition Height="*"/>
+            <RowDefinition Height="0.8*"/>
+            <RowDefinition Height="0.1*"/>
         </Grid.RowDefinitions>
 
         <StackPanel Orientation="Vertical" VerticalAlignment="Stretch">
-            <Button x:Name="SolveButton" Content="恢复" Margin="10" HorizontalAlignment="Center" Click="SolveButton_Click" />
+            <Button x:Name="SolveButton" Content="恢复" Margin="10,10,0,10" HorizontalAlignment="Center" Click="SolveButton_Click" Width="470" />
             <StackPanel x:Name="StatusPanel" Orientation="Horizontal" HorizontalAlignment="Center" Visibility="Collapsed">
                 <TextBlock HorizontalAlignment="Center" Text="Your Moves: " TextWrapping="Wrap" Foreground="#FFD0D0D0" FontSize="17.333"/>
                 <TextBlock x:Name="TotalMovesTextBlock" HorizontalAlignment="Center" Text="N" TextWrapping="Wrap" Foreground="#FFFFB000" FontSize="17.333"/>
@@ -115,12 +117,10 @@
                 </Canvas>
             </Border>
             <TextBlock x:Name="TapToContinueTextBlock" HorizontalAlignment="Center" Text="点击图片开始" TextWrapping="Wrap" Foreground="#FFD0D0D0" FontSize="17.333"/>
-            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
-                <Button x:Name="LoadButton" Content="读取" Margin="10" Click="LoadButton_Click" />
-                <Button x:Name="SaveButton" Content="保存" Margin="10" Click="SaveButton_Click" />
-                <Button x:Name="ClearStorageButton" Content="清除" Margin="10" Click="ClearStorageButton_Click" />
-            </StackPanel>
         </StackPanel>
+        <adduplex:AdControl x:Name="adDuplexAd" Grid.Row="2"
+                    AppId="75491" 
+                    />
     </Grid>
  
     <!--演示 ApplicationBar 用法的示例代码-->

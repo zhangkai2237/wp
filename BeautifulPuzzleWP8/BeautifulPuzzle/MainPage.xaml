@@ -30,58 +30,37 @@
         <ScrollViewer Height="600" Grid.Row="1">
             <Grid x:Name="ContentPanel"  Margin="12,0,12,0">
                 <Grid.RowDefinitions>
-                    <RowDefinition Height="200" />
-                    <RowDefinition Height="200" />
-                    <RowDefinition Height="200" />
-                    <RowDefinition Height="200" />
-                    <RowDefinition Height="200" />
+                    <RowDefinition Height="160" />
+                    <RowDefinition Height="160" />
+                    <RowDefinition Height="160" />
+                    <RowDefinition Height="160" />
+                    <RowDefinition Height="160" />
                 </Grid.RowDefinitions>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="*" />
                     <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
                 </Grid.ColumnDefinitions>
-                <Image Grid.Row="0" Grid.Column="0" Source="/Small/1_small.jpg" Height="150" HorizontalAlignment="Center" Name="image1" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image1_Tap" />
-                <StackPanel Grid.Row="0" Grid.Column="1">
-                    <TextBlock Text="奶茶MM" HorizontalAlignment="Center" FontSize="32" />
-                    <TextBlock Text="职业：学生" />
-                    <TextBlock Text="出生日期：1993-11-18" />
-                    <TextBlock Text="奶茶MM真名章泽天，这是她成名的那张喝奶茶照片。" TextWrapping="Wrap" />
-                </StackPanel>
+                <Image Grid.Row="0" Grid.Column="0" Source="/Small/1_small.jpg" Height="140" HorizontalAlignment="Center" Name="image1" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="0" Grid.Column="1" Source="/Small/11_small.jpg" Height="140" HorizontalAlignment="Center" Name="image11" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="0" Grid.Column="2" Source="/Small/12_small.jpg" Height="140" HorizontalAlignment="Center" Name="image12" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                
 
-                <Image Grid.Row="1" Grid.Column="0" Source="/Small/2_small.png" Height="150" HorizontalAlignment="Center" Name="image2" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image2_Tap" />
-                <StackPanel Grid.Row="1" Grid.Column="1">
-                    <TextBlock Text="池方圆" HorizontalAlignment="Center" FontSize="32" />
-                    <TextBlock Text="职业：学生" />
-                    <TextBlock Text="学校：集美大学" />
-                    <TextBlock Text="最新爆红集大学校花池方圆的美女！被网友评为'史上最清纯的啦啦宝贝'" TextWrapping="Wrap" />
-                </StackPanel>
+                <Image Grid.Row="1" Grid.Column="0" Source="/Small/2_small.png" Height="150" HorizontalAlignment="Center" Name="image2" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image_Tap" />
+                <Image Grid.Row="1" Grid.Column="1" Source="/Small/21_small.jpg" Height="140" HorizontalAlignment="Center" Name="image21" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="1" Grid.Column="2" Source="/Small/22_small.jpg" Height="140" HorizontalAlignment="Center" Name="image22" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
 
-                <Image Grid.Row="2" Grid.Column="0" Source="/Small/3_small.jpg" Height="150" HorizontalAlignment="Center" Name="image3" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image3_Tap" />
-                <StackPanel Grid.Row="2" Grid.Column="1">
-                    <TextBlock Text="景甜" HorizontalAlignment="Center" FontSize="32" />
-                    <TextBlock Text="职业：演员、歌手" />
-                    <TextBlock Text="出生日期：1989-7-21" />
-                    <TextBlock Text="身高：167cm" />
-                    <TextBlock Text="体重：44kg" />
-                </StackPanel>
+                <Image Grid.Row="2" Grid.Column="0" Source="/Small/3_small.jpg" Height="150" HorizontalAlignment="Center" Name="image3" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image_Tap" />
+                <Image Grid.Row="2" Grid.Column="1" Source="/Small/31_small.jpg" Height="140" HorizontalAlignment="Center" Name="image31" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="2" Grid.Column="2" Source="/Small/32_small.jpg" Height="140" HorizontalAlignment="Center" Name="image32" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
 
-                <Image Grid.Row="3" Grid.Column="0" Source="/Small/4_small.jpg" Height="150" HorizontalAlignment="Center" Name="image4" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image4_Tap" />
-                <StackPanel Grid.Row="3" Grid.Column="1">
-                    <TextBlock Text="李念" HorizontalAlignment="Center" FontSize="32" />
-                    <TextBlock Text="职业：演员" />
-                    <TextBlock Text="出生日期：1985-5-30" />
-                    <TextBlock Text="身高：163cm" />
-                    <TextBlock Text="体重：45kg" />
-                </StackPanel>
+                <Image Grid.Row="3" Grid.Column="0" Source="/Small/4_small.jpg" Height="150" HorizontalAlignment="Center" Name="image4" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image_Tap" />
+                <Image Grid.Row="3" Grid.Column="1" Source="/Small/41_small.jpg" Height="140" HorizontalAlignment="Center" Name="image41" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="3" Grid.Column="2" Source="/Small/42_small.jpg" Height="140" HorizontalAlignment="Center" Name="image42" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
 
-                <Image Grid.Row="4" Grid.Column="0" Source="/Small/5_small.jpg" Height="150" HorizontalAlignment="Center" Name="image5" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image5_Tap" />
-                <StackPanel Grid.Row="4" Grid.Column="1">
-                    <TextBlock Text="刘亦菲" HorizontalAlignment="Center" FontSize="32" />
-                    <TextBlock Text="职业：演员、歌手" />
-                    <TextBlock Text="出生日期：1987-08-25" />
-                    <TextBlock Text="身高：170cm" />
-                    <TextBlock Text="体重：48kg" />
-                </StackPanel>
+                <Image Grid.Row="4" Grid.Column="0" Source="/Small/5_small.jpg" Height="150" HorizontalAlignment="Center" Name="image5" Stretch="Fill" VerticalAlignment="Center" Width="150" Tap="image_Tap" />
+                <Image Grid.Row="4" Grid.Column="1" Source="/Small/51_small.jpg" Height="140" HorizontalAlignment="Center" Name="image51" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
+                <Image Grid.Row="4" Grid.Column="2" Source="/Small/52_small.jpg" Height="140" HorizontalAlignment="Center" Name="image52" Stretch="Fill" VerticalAlignment="Center" Width="140" Tap="image_Tap" />
 
             </Grid>
         </ScrollViewer>

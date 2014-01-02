@@ -24,39 +24,12 @@ namespace BeautifulPuzzle
             InitializeComponent();
         }
 
-        private void image1_Tap(object sender, GestureEventArgs e)
+        private void image_Tap(object sender, GestureEventArgs e)
         {
+            Image image = (Image)sender;
             App app = Application.Current as App;
-            app.ID = 1;
+            app.ID = Convert.ToInt32(image.Name.TrimStart("image".ToCharArray()));
             NavigationService.Navigate(new Uri("/PuzzlePage.xaml", UriKind.RelativeOrAbsolute));
-        }
-
-        private void image2_Tap(object sender, GestureEventArgs e)
-        {
-            App app = Application.Current as App;
-            app.ID = 2;
-            NavigationService.Navigate(new Uri("/PuzzlePage.xaml", UriKind.RelativeOrAbsolute));
-        }
-
-        private void image3_Tap(object sender, GestureEventArgs e)
-        {
-            App app = Application.Current as App;
-            app.ID = 3;
-            NavigationService.Navigate(new Uri("/PuzzlePage.xaml", UriKind.RelativeOrAbsolute));
-        }
-
-        private void image4_Tap(object sender, GestureEventArgs e)
-        {
-            App app = Application.Current as App;
-            app.ID = 4;
-            NavigationService.Navigate(new Uri("/PuzzlePage.xaml", UriKind.RelativeOrAbsolute));
-        }
-
-        private void image5_Tap(object sender, GestureEventArgs e)
-        {
-            App app = Application.Current as App;
-            app.ID = 5;
-            NavigationService.Navigate(new Uri("/PuzzlePage.xaml", UriKind.Relative));
         }
     }
 }
