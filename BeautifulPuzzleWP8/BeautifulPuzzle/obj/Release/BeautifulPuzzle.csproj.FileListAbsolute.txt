@@ -23,3 +23,4 @@ F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\Beautiful
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.dll
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.pdb
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.csprojResolveAssemblyReference.cache
