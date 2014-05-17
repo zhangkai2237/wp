@@ -118,8 +118,8 @@
             </Border>
             <TextBlock x:Name="TapToContinueTextBlock" HorizontalAlignment="Center" Text="点击图片开始" TextWrapping="Wrap" Foreground="#FFD0D0D0" FontSize="17.333"/>
         </StackPanel>
-        <adduplex:AdControl x:Name="adDuplexAd" Grid.Row="2"
-                    AppId="75491" 
+        <adduplex:AdControl x:Name="adDuplexAd"  Grid.Row="2"
+                    AppId="75491"  AdClick="adDuplexAd_AdClick"
                     />
     </Grid>
  

@@ -14,6 +14,8 @@ using Microsoft.Phone.Controls;
 using System.IO;
 using System.Windows.Media.Imaging;
 using System.Windows.Resources;
+using Microsoft.Phone.Shell;
+using System.IO.IsolatedStorage;
 
 namespace BeautifulPuzzle
 {
@@ -332,6 +334,42 @@ namespace BeautifulPuzzle
 
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
+        }
+
+        private void adDuplexAd_AdClick(object sender, AdDuplex.AdClickEventArgs e)
+        {
+            int count = this.GetCount();
+            DateTime day = this.GetClickDate();
+            if (day.Date < DateTime.Now.Date)
+            {
+                count += 1;
+                IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
+                IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
+            }
+        }
+
+        private int GetCount()
+        {
+            string settingName = "AllowCount";
+            if (!IsolatedStorageSettings.ApplicationSettings.Contains(settingName))
+            {
+                IsolatedStorageSettings.ApplicationSettings[settingName] = 3;
+            }
+            int count = Convert.ToInt32(IsolatedStorageSettings.ApplicationSettings[settingName]);
+
+            return count;
+        }
+
+        private DateTime GetClickDate()
+        {
+            string settingName = "ClickDate";
+            if (!IsolatedStorageSettings.ApplicationSettings.Contains(settingName))
+            {
+                IsolatedStorageSettings.ApplicationSettings[settingName] = DateTime.Now.AddDays(-3).Date.ToString();
+            }
+            DateTime day = Convert.ToDateTime(IsolatedStorageSettings.ApplicationSettings[settingName]).Date;
+
+            return day;
         }
     }
 }

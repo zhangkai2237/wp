@@ -12,11 +12,14 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
+using System.IO.IsolatedStorage;
 
 namespace BeautifulPuzzle
 {
     public partial class App : Application
     {
+
+        Application app = new Application();
 
         public int ID { get; set; }
 
@@ -58,6 +61,8 @@ namespace BeautifulPuzzle
                 //  注意: 仅在调试模式下使用此设置。禁用用户空闲检测的应用程序在用户不使用电话时将继续运行
                 // 并且消耗电池电量。
                 PhoneApplicationService.Current.UserIdleDetectionMode = IdleDetectionMode.Disabled;
+
+                
             }
 
         }
@@ -66,6 +71,21 @@ namespace BeautifulPuzzle
         // 此代码在重新激活应用程序时不执行
         private void Application_Launching(object sender, LaunchingEventArgs e)
         {
+            string countSettingName = "AllowCount";
+            if (!IsolatedStorageSettings.ApplicationSettings.Contains(countSettingName))
+            {
+                IsolatedStorageSettings.ApplicationSettings[countSettingName] = 3;
+            }
+            string dateSettingName = "ClickDate";
+            if (!IsolatedStorageSettings.ApplicationSettings.Contains(dateSettingName))
+            {
+                IsolatedStorageSettings.ApplicationSettings[dateSettingName] = DateTime.Now.AddDays(-3).Date.ToString() ;
+            }
+            //PhoneApplicationService phoneAppService = PhoneApplicationService.Current;
+            //if (!phoneAppService.State.ContainsKey("ClickAdCount"))
+            //{
+            //    phoneAppService.State["ClickAdCount"] = 3;
+            //}
         }
 
         // 激活应用程序(置于前台)时执行的代码

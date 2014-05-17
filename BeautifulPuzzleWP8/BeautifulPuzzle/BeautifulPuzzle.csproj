@@ -142,12 +142,38 @@
     <None Include="Assets\Thumbs.db" />
     <None Include="Assets\Tiles\Thumbs.db" />
     <None Include="packages.config" />
-    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\AppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Properties\WMAppManifest.xml">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Big\0.jpg" />
+    <Content Include="Big\10.jpg" />
+    <Content Include="Big\13.jpg" />
+    <Content Include="Big\14.jpg" />
+    <Content Include="Big\6.jpg" />
+    <Content Include="Big\7.jpg" />
+    <Content Include="Big\8.jpg" />
+    <Content Include="Big\9.jpg" />
+    <Content Include="middle\0_small.jpg" />
+    <Content Include="middle\10_small.jpg" />
+    <Content Include="middle\11_small.jpg" />
+    <Content Include="middle\12_small.jpg" />
+    <Content Include="middle\13_small.jpg" />
+    <Content Include="middle\14_small.jpg" />
+    <Content Include="middle\1_small.jpg" />
+    <Content Include="middle\2_small.jpg" />
+    <Content Include="middle\3_small.jpg" />
+    <Content Include="middle\4_small.jpg" />
+    <Content Include="middle\5_small.jpg" />
+    <Content Include="middle\6_small.jpg" />
+    <Content Include="middle\7_small.jpg" />
+    <Content Include="middle\8_small.jpg" />
+    <Content Include="middle\9_small.jpg" />
+    <Content Include="middle\lock.jpg" />
     <Content Include="SplashScreenImage.jpg" />
     <Content Include="ApplicationIcon.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
@@ -164,39 +190,6 @@
     </Content>
     <Content Include="Big\11.jpg" />
     <Content Include="Big\12.jpg" />
-    <Content Include="Big\21.jpg" />
-    <Content Include="Big\22.jpg" />
-    <Content Include="Big\31.jpg" />
-    <Content Include="Big\32.jpg" />
-    <Content Include="Big\41.jpg" />
-    <Content Include="Big\42.jpg" />
-    <Content Include="Big\51.jpg" />
-    <Content Include="Big\52.jpg" />
-    <Content Include="Small\11_small.jpg" />
-    <Content Include="Small\12_small.jpg" />
-    <Content Include="Small\21_small.jpg" />
-    <Content Include="Small\22_small.jpg" />
-    <Content Include="Small\31_small.jpg" />
-    <Content Include="Small\32_small.jpg" />
-    <Content Include="Small\41_small.jpg" />
-    <Content Include="Small\42_small.jpg" />
-    <Content Include="Small\51_small.jpg" />
-    <Content Include="Small\52_small.jpg" />
-    <Content Include="Small\5_small.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Small\3_small.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Small\4_small.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Small\2_small.png">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Small\1_small.jpg">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <Content Include="Big\5.jpg">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

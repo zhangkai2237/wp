@@ -1,10 +1,5 @@
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\ApplicationIcon.png
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Background.png
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Small\5_small.jpg
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Small\3_small.jpg
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Small\4_small.jpg
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Small\2_small.png
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Small\1_small.jpg
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Big\5.jpg
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Big\1.jpg
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\Bin\Release\Big\3.jpg
@@ -23,4 +18,3 @@ F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\Beautiful
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.dll
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.pdb
 F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\XapCacheFile.xml
-F:\CodeManage\GitHub\wp\BeautifulPuzzleWP8\BeautifulPuzzle\obj\Release\BeautifulPuzzle.csprojResolveAssemblyReference.cache
