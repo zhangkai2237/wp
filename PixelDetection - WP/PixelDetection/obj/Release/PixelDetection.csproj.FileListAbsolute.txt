@@ -1,0 +1,98 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\PixelDetection.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\PixelDetection.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\BlackPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\BluePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\GrayPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\GreenPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\OrangePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\PurplePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\RedPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\ResultPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\WhitePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\YellowPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\PixelDetection.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\PixelDetection.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\PixelDetection.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\BlackPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\BluePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\GrayPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\GreenPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\OrangePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PurplePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\RedPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\ResultPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\WhitePage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\YellowPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\Background.png
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\ApplicationIcon.png
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.dll
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.pdb
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\AppManifest.xaml
+E:\GitHub\wp\PixelDetection\PixelDetection\Bin\Release\PixelDetection.xap
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.csprojResolveAssemblyReference.cache
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\App.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\BlackPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\BluePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\GrayPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\GreenPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\MainPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\OrangePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PurplePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\RedPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\ResultPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\WhitePage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\YellowPage.g.cs
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.g.resources
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.dll
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\PixelDetection.pdb
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\XapCacheFile.xml
+E:\GitHub\wp\PixelDetection\PixelDetection\obj\Release\Introduction.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\Background.png
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\ApplicationIcon.png
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\PixelDetection.dll
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\PixelDetection.pdb
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\AppManifest.xaml
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDetection.csprojResolveAssemblyReference.cache
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\App.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\BlackPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\BluePage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\GrayPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\GreenPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\Introduction.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\MainPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\OrangePage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PurplePage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\RedPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\ResultPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\WhitePage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\YellowPage.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDetection.g.resources
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDetection.dll
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDetection.pdb
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\PixelDetection_Release_AnyCPU.xap
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\GoogleAds.dll
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\GoogleAds.xml
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\AD.g.cs
+F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\UmengAnalyticsWP8.dll

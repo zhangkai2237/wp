@@ -336,17 +336,17 @@ namespace BeautifulPuzzle
         {
         }
 
-        private void adDuplexAd_AdClick(object sender, AdDuplex.AdClickEventArgs e)
-        {
-            int count = this.GetCount();
-            DateTime day = this.GetClickDate();
-            if (day.Date < DateTime.Now.Date)
-            {
-                count += 1;
-                IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
-                IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
-            }
-        }
+        //private void adDuplexAd_AdClick(object sender, AdDuplex.AdClickEventArgs e)
+        //{
+        //    int count = this.GetCount();
+        //    DateTime day = this.GetClickDate();
+        //    if (day.Date < DateTime.Now.Date)
+        //    {
+        //        count += 1;
+        //        IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
+        //        IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
+        //    }
+        //}
 
         private int GetCount()
         {
@@ -370,6 +370,18 @@ namespace BeautifulPuzzle
             DateTime day = Convert.ToDateTime(IsolatedStorageSettings.ApplicationSettings[settingName]).Date;
 
             return day;
+        }
+
+        private void AdView_ReceivedAd(object sender, GoogleAds.AdEventArgs e)
+        {
+            int count = this.GetCount();
+            DateTime day = this.GetClickDate();
+            if (day.Date < DateTime.Now.Date)
+            {
+                count += 1;
+                IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
+                IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
+            }
         }
     }
 }

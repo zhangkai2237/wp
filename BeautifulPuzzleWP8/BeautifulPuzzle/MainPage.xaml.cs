@@ -15,6 +15,7 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Shell;
 using System.Windows.Media.Imaging;
 using System.IO.IsolatedStorage;
+using GoogleAds;
 
 
 namespace BeautifulPuzzle
@@ -87,17 +88,17 @@ namespace BeautifulPuzzle
             }
         }
 
-        private void adDuplexAd_AdClick(object sender, AdDuplex.AdClickEventArgs e)
-        {
-            int count = this.GetCount();
-            DateTime day = this.GetClickDate();
-            if (day.Date < DateTime.Now.Date)
-            {
-                count += 1;
-                IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
-                IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
-            }
-        }
+        //private void OnAdReceived(object sender, AdDuplex.AdClickEventArgs e)
+        //{
+        //    int count = this.GetCount();
+        //    DateTime day = this.GetClickDate();
+        //    if (day.Date < DateTime.Now.Date)
+        //    {
+        //        count += 1;
+        //        IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
+        //        IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
+        //    }
+        //}
 
 
         private int GetCount()
@@ -122,6 +123,18 @@ namespace BeautifulPuzzle
             DateTime day = Convert.ToDateTime(IsolatedStorageSettings.ApplicationSettings[settingName]).Date;
 
             return day;
+        }
+
+        private void AdView_LeavingApplication(object sender, AdEventArgs e)
+        {
+            int count = this.GetCount();
+            DateTime day = this.GetClickDate();
+            if (day.Date < DateTime.Now.Date)
+            {
+                count += 1;
+                IsolatedStorageSettings.ApplicationSettings["AllowCount"] = count.ToString();
+                IsolatedStorageSettings.ApplicationSettings["ClickDate"] = DateTime.Now.Date.ToString();
+            }
         }
     }
 

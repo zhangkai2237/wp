@@ -2,5 +2,6 @@
   <Deployment.Parts>
     <AssemblyPart x:Name="BeautifulPuzzle" Source="BeautifulPuzzle.dll" />
     <AssemblyPart x:Name="AdDuplex.WindowsPhone" Source="AdDuplex.WindowsPhone.dll" />
+    <AssemblyPart x:Name="GoogleAds" Source="GoogleAds.dll" />
   </Deployment.Parts>
 </Deployment>

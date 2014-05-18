@@ -1,0 +1,57 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="PixelDetection.Introduction"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="Black" Offset="0"/>
+                <GradientStop Color="#FFB41616" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28">
+            <TextBlock Text="手机坏点检测器" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="坏点介绍" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBlock Margin="20 20 20 20" TextWrapping="Wrap">
+                <Run FontSize="30" FontFamily="Arial Black" FontWeight="Bold">
+                    坏点简介
+                </Run>
+                <LineBreak />
+                <LineBreak />
+                <Run>
+                    液晶显示屏的坏点又称点缺勤，它是指液晶屏显示黑白两色和红、黄、蓝三原色下所显示的子像素点，每个点是指一个子像素。液晶屏最怕的就是坏点。一旦出现坏点，则不管显示屏所显示出来的图像如何，显示屏上的某一点永远是显示同一种颜色。这种“坏点”是无法维修的，只有更换整个显示屏才能解决问题。
+                </Run>
+                <LineBreak />
+                <LineBreak />
+                <Run>目前，对手机的坏点问题我国还没有相关的规定和标准，所以各位亲们选购时注意检测！</Run>
+                <LineBreak />
+                <LineBreak />
+                <Run>坏点目前还无法做到机器直接自动检测出来，只能通过将画面显示不同的纯色后肉眼观察有没有不变色的像素点存在，以达到检测的目的。</Run>
+
+            </TextBlock>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

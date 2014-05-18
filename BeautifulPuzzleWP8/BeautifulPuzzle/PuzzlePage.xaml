@@ -7,6 +7,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.WindowsPhone"
+    xmlns:GoogleAds="clr-namespace:GoogleAds;assembly=GoogleAds"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
     Foreground="{StaticResource PhoneForegroundBrush}"
@@ -118,9 +119,14 @@
             </Border>
             <TextBlock x:Name="TapToContinueTextBlock" HorizontalAlignment="Center" Text="点击图片开始" TextWrapping="Wrap" Foreground="#FFD0D0D0" FontSize="17.333"/>
         </StackPanel>
-        <adduplex:AdControl x:Name="adDuplexAd"  Grid.Row="2"
+        <!--<adduplex:AdControl x:Name="adDuplexAd"  Grid.Row="2"
                     AppId="75491"  AdClick="adDuplexAd_AdClick"
-                    />
+                    />-->
+
+        <GoogleAds:AdView Grid.Row="2" 
+                              AdUnitID="ca-app-pub-7694238510187885/7102907790"
+                          Format="Banner"
+                          ReceivedAd="AdView_ReceivedAd"/>
     </Grid>
  
     <!--演示 ApplicationBar 用法的示例代码-->

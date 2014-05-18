@@ -7,6 +7,7 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.WindowsPhone"
+    xmlns:GoogleAds="clr-namespace:GoogleAds;assembly=GoogleAds"
     mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
@@ -17,7 +18,8 @@
     <!--LayoutRoot 是包含所有页面内容的根网格-->
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="7*"/>
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
@@ -28,22 +30,23 @@
         </StackPanel>
 
         <!--ContentPanel - 在此处放置其他内容-->
-            <Grid x:Name="ContentPanel"  Margin="12,0,12,0" Grid.Row="1">
-            <Grid.RowDefinitions>
-                <RowDefinition Height=".85*" />
-                <RowDefinition Height=".15*" />
-            </Grid.RowDefinitions>
-                <ListBox x:Name="ImageList" Grid.Row="0" Height="480" ScrollViewer.VerticalScrollBarVisibility="Visible">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate>
-                                <Image Width="450" Height="282" HorizontalAlignment="Center"  Source="{Binding Image}" Tap="Image_Tap" />
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            <adduplex:AdControl x:Name="adDuplexAd"  Grid.Row="1"
+        <Grid x:Name="ContentPanel"  Margin="12,0,12,0" Grid.Row="1">
+            <ListBox x:Name="ImageList" Height="480" ScrollViewer.VerticalScrollBarVisibility="Visible">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Image Width="450" Height="282" HorizontalAlignment="Center"  Source="{Binding Image}" Tap="Image_Tap" />
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+            <!--<adduplex:AdControl x:Name="adDuplexAd"  Grid.Row="1"
                     AppId="75491"  AdClick="adDuplexAd_AdClick"
-                    />
+                    />-->
         </Grid>
+        <GoogleAds:AdView Grid.Row="2"
+                           AdUnitID="ca-app-pub-7694238510187885/8579640990"
+                           Format="Banner"
+                     LeavingApplication="AdView_LeavingApplication"
+                           />
     </Grid>
 
     <!--演示 ApplicationBar 用法的示例代码-->
