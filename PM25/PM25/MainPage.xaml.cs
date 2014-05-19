@@ -16,25 +16,46 @@ using PM25.Model;
 using System.IO.IsolatedStorage;
 using System.IO;
 using Microsoft.Phone.Net.NetworkInformation;
+using Microsoft.Phone.Shell;
 
 namespace PM25
 {
     public partial class MainPage : PhoneApplicationPage
     {
-
-        //List<AirModel> entityList = new List<AirModel>();
+        private ProgressIndicator _progressIndicator = new ProgressIndicator();
 
         // 构造函数
         public MainPage()
         {
             InitializeComponent();
-            //progressBar1.IsIndeterminate = true;
+            _progressIndicator.IsIndeterminate = true;
+        }
+
+        /// <summary>
+        /// Displays the progress indicator with the given message.
+        /// </summary>
+        /// <param name="message">The message to display.</param>
+        private void ShowProgress(String message)
+        {
+            
+            SystemTray.IsVisible = true;
+            _progressIndicator.Text = message;
+            _progressIndicator.IsVisible = true;
+            SystemTray.SetProgressIndicator(this, _progressIndicator);
+        }
+
+        /// <summary>
+        /// Hides the progress indicator.
+        /// </summary>
+        private void HideProgress()
+        {
+            SystemTray.IsVisible = false;
+            _progressIndicator.IsVisible = false;
+            SystemTray.SetProgressIndicator(this, _progressIndicator);
         }
 
         private void PhoneApplicationPage_Loaded_1(object sender, RoutedEventArgs e)
         {
-            //DetailsList.DataContext = 
-            //Panorama1.Title = "上海";
             string jsonStr = AnalyzeJson.Read("MainPage");
             List<AirModel> entityList = AnalyzeJson.JsonToEntityList(jsonStr);
             if (entityList.Count == 0)
@@ -85,7 +106,7 @@ namespace PM25
         #region 更新数据
         private void UpdateData()
         {
-            //progressBar1.Visibility = System.Windows.Visibility.Visible;
+            this.ShowProgress("加载中......");
             //得到城市
             string city = "上海";
             if (IsolatedStorageSettings.ApplicationSettings.Contains("City"))
@@ -102,6 +123,7 @@ namespace PM25
 
         void wb_DownloadStringCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
+            this.HideProgress();
             List<AirModel> entityList = new List<AirModel>();
             if (Microsoft.Phone.Net.NetworkInformation.NetworkInterface.NetworkInterfaceType == NetworkInterfaceType.None)
             {
