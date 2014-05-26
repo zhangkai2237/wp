@@ -15,7 +15,7 @@
     SupportedOrientations="Portrait" Orientation="Portrait"
     shell:SystemTray.IsVisible="True">
 
-    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <!--LayoutRoot 是包含所有页面内容的根网格--> 
     <Grid x:Name="LayoutRoot" Background="Transparent">
         <Grid.RowDefinitions>
             <RowDefinition Height="2*"/>
