@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment" AppPlatformVersion="8.0">
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
   <DefaultLanguage xmlns="" code="zh-CN" />
   <App xmlns="" ProductID="{a9510380-9e17-4d7e-82c1-bf2101cc82f1}" Title="美女拼图" RuntimeType="Silverlight" Version="1.2.0.0" Genre="apps.normal" Author="Kevin Zhang" Description="清纯型美女拼图" Publisher="Kevin Zhang" PublisherID="{47bc36d7-8e5a-4038-a001-96b19323a7f7}">
     <IconPath IsRelative="true" IsResource="false">Assets\100_100.png</IconPath>
@@ -30,18 +30,13 @@
           <Count>0</Count>
           <BackgroundImageURI IsResource="false" IsRelative="true">Assets\Tiles\336_336.png</BackgroundImageURI>
           <Title>BeautifulPuzzle</Title>
-          <BackContent>
-          </BackContent>
-          <BackBackgroundImageURI>
-          </BackBackgroundImageURI>
-          <BackTitle>
-          </BackTitle>
+          <BackContent></BackContent>
+          <BackBackgroundImageURI></BackBackgroundImageURI>
+          <BackTitle></BackTitle>
           <LargeBackgroundImageURI IsRelative="true" IsResource="false">Assets\Tiles\691_336.png</LargeBackgroundImageURI>
           <LargeBackContent />
-          <LargeBackBackgroundImageURI IsRelative="true" IsResource="false">
-          </LargeBackBackgroundImageURI>
-          <DeviceLockImageURI>
-          </DeviceLockImageURI>
+          <LargeBackBackgroundImageURI IsRelative="true" IsResource="false"></LargeBackBackgroundImageURI>
+          <DeviceLockImageURI></DeviceLockImageURI>
           <HasLarge>True</HasLarge>
         </TemplateFlip>
       </PrimaryToken>
