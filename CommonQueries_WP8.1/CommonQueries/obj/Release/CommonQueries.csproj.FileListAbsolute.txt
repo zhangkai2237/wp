@@ -1,0 +1,47 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\CommonQueries.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Microsoft.Phone.Controls.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\Bin\Release\Microsoft.Phone.Controls.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\CommonQueries.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\CommonQueries\CommonQueries\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\ApplicationIcon.png
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\Background.png
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\CommonQueries.dll
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\CommonQueries.pdb
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\resources.pri
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\AppxManifest.xml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\CommonQueries.build.appxrecipe
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\AppManifest.xaml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\CommonQueries_Release_AnyCPU.xap
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\Bin\Release\Microsoft.Phone.Controls.dll
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\CommonQueries.csprojResolveAssemblyReference.cache
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\App.g.cs
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\MainPage.g.cs
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\CommonQueries.g.resources
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\CommonQueries.dll
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\CommonQueries.pdb
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\CommonQueries.csproj.GenerateResource.Cache
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\priconfig.xml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\priconfig.xml.intermediate
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\layout.resfiles
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\layout.resfiles.intermediate
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\resources.resfiles
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\resources.resfiles.intermediate
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\pri.resfiles
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\pri.resfiles.intermediate
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\qualifiers.txt
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\qualifiers.txt.intermediate
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\ProjectArchitectures.txt
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\MDILProjectFiles.xml
+F:\CodeManage\GitHub\WP\CommonQueries_WP8.1\CommonQueries\obj\Release\XapCacheFile.xml
