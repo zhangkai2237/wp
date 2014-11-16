@@ -6,8 +6,7 @@
     xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:adduplex="clr-namespace:AdDuplex;assembly=AdDuplex.WindowsPhone"
-    xmlns:GoogleAds="clr-namespace:GoogleAds;assembly=GoogleAds"
+    xmlns:ui="using:Microsoft.Advertising.Mobile.UI"
     mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
     FontFamily="{StaticResource PhoneFontFamilyNormal}"
     FontSize="{StaticResource PhoneFontSizeNormal}"
@@ -42,11 +41,7 @@
                     AppId="75491"  AdClick="adDuplexAd_AdClick"
                     />-->
         </Grid>
-        <GoogleAds:AdView Grid.Row="2"
-                           AdUnitID="ca-app-pub-7694238510187885/8579640990"
-                           Format="Banner"
-                     LeavingApplication="AdView_LeavingApplication"
-                           />
+        <ui:AdControl ApplicationId="132e7a5d-97f7-4d24-a5bf-fb88297e2d80" AdUnitId="161712" Width="480" Height="80" HorizontalAlignment="Left" />
     </Grid>
 
     <!--演示 ApplicationBar 用法的示例代码-->

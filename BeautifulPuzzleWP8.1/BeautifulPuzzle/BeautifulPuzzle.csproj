@@ -100,9 +100,6 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="AdDuplex.WindowsPhone">
-      <HintPath>..\packages\AdDuplexWP8.2.8.0.4\lib\sl4-wp71\AdDuplex.WindowsPhone.dll</HintPath>
-    </Reference>
     <Reference Include="GoogleAds">
       <HintPath>E:\Users\凯\Downloads\googlemobileadssdkwindowsphone8\lib\windowsphone8\GoogleAds.dll</HintPath>
     </Reference>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a9510380-9e17-4d7e-82c1-bf2101cc82f1</PackageIdentityName>
+    <IntermediateOutputPath>F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\BeautifulPuzzle.dll">
+      <PackagePath>BeautifulPuzzle.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.dll">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.dll">
+      <PackagePath>GoogleAds.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.xml">
+      <PackagePath>Microsoft.Advertising.Mobile.UI.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml">
+      <PackagePath>Microsoft.Advertising.Mobile.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.xml">
+      <PackagePath>GoogleAds.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\100_100.png">
+      <PackagePath>Assets\100_100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\134_202.png">
+      <PackagePath>Assets\Tiles\134_202.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\159_159.png">
+      <PackagePath>Assets\Tiles\159_159.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\336_336.png">
+      <PackagePath>Assets\Tiles\336_336.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\691_336.png">
+      <PackagePath>Assets\Tiles\691_336.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\71_110.png">
+      <PackagePath>Assets\Tiles\71_110.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\0.jpg">
+      <PackagePath>Big\0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\10.jpg">
+      <PackagePath>Big\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\13.jpg">
+      <PackagePath>Big\13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\14.jpg">
+      <PackagePath>Big\14.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\6.jpg">
+      <PackagePath>Big\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\7.jpg">
+      <PackagePath>Big\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\8.jpg">
+      <PackagePath>Big\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\9.jpg">
+      <PackagePath>Big\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\0_small.jpg">
+      <PackagePath>middle\0_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\10_small.jpg">
+      <PackagePath>middle\10_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\11_small.jpg">
+      <PackagePath>middle\11_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\12_small.jpg">
+      <PackagePath>middle\12_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\13_small.jpg">
+      <PackagePath>middle\13_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\14_small.jpg">
+      <PackagePath>middle\14_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\1_small.jpg">
+      <PackagePath>middle\1_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\2_small.jpg">
+      <PackagePath>middle\2_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\3_small.jpg">
+      <PackagePath>middle\3_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\4_small.jpg">
+      <PackagePath>middle\4_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\5_small.jpg">
+      <PackagePath>middle\5_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\6_small.jpg">
+      <PackagePath>middle\6_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\7_small.jpg">
+      <PackagePath>middle\7_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\8_small.jpg">
+      <PackagePath>middle\8_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\9_small.jpg">
+      <PackagePath>middle\9_small.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\middle\lock.jpg">
+      <PackagePath>middle\lock.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\11.jpg">
+      <PackagePath>Big\11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\12.jpg">
+      <PackagePath>Big\12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\5.jpg">
+      <PackagePath>Big\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\1.jpg">
+      <PackagePath>Big\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\3.jpg">
+      <PackagePath>Big\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\4.jpg">
+      <PackagePath>Big\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\2.jpg">
+      <PackagePath>Big\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
