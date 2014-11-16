@@ -1,6 +1,7 @@
-﻿<xapCache source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\BeautifulPuzzle_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/15 22:20:45">
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/15 22:20:44" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\BeautifulPuzzle.dll" archivePath="BeautifulPuzzle.dll" lastWriteTime="2014/11/15 22:20:44" />
+﻿<xapCache source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\BeautifulPuzzle_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/16 12:17:29">
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/16 12:12:09" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\BeautifulPuzzle.dll" archivePath="BeautifulPuzzle.dll" lastWriteTime="2014/11/16 12:17:28" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\ADSimple.csproj.user" archivePath="ADSimple.csproj.user" lastWriteTime="2014/11/16 11:33:40" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/15 21:59:17" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/15 21:59:17" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/15 21:59:17" />
@@ -47,7 +48,7 @@
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\3.jpg" archivePath="Big\3.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\4.jpg" archivePath="Big\4.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Big\2.jpg" archivePath="Big\2.jpg" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/15 22:20:45" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/16 12:12:09" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Big\5.jpg" archivePath="Big\5.jpg" lastWriteTime="2014/11/15 12:42:06" />
@@ -55,11 +56,18 @@
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Big\3.jpg" archivePath="Big\3.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Big\4.jpg" archivePath="Big\4.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Big\2.jpg" archivePath="Big\2.jpg" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.dll" archivePath="GoogleAds.dll" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.xml" archivePath="GoogleAds.xml" lastWriteTime="2014/11/15 12:42:06" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\Google.ProtocolBuffersLite.dll" archivePath="Google.ProtocolBuffersLite.dll" lastWriteTime="2013/5/8 5:38:54" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\Google.ProtocolBuffersLite.Serialization.dll" archivePath="Google.ProtocolBuffersLite.Serialization.dll" lastWriteTime="2013/5/8 5:38:55" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.Controls.dll" archivePath="ImageTools.Controls.dll" lastWriteTime="2014/1/20 14:35:53" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.dll" archivePath="ImageTools.dll" lastWriteTime="2014/1/20 14:35:53" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.IO.Gif.dll" archivePath="ImageTools.IO.Gif.dll" lastWriteTime="2014/1/20 14:35:54" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.IO.Png.dll" archivePath="ImageTools.IO.Png.dll" lastWriteTime="2014/1/20 14:35:54" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.Utils.dll" archivePath="ImageTools.Utils.dll" lastWriteTime="2014/1/20 14:35:55" />
+  <file source="E:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.Maps.dll" archivePath="Microsoft.Phone.Controls.Maps.dll" lastWriteTime="2014/10/16 6:23:10" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\MSNADSDK.dll" archivePath="MSNADSDK.dll" lastWriteTime="2014/6/20 10:59:09" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\100_100.png" archivePath="Assets\100_100.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\Tiles\336_336.png" archivePath="Assets\Tiles\336_336.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/15 22:20:35" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/15 22:20:45" />
-  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/15 22:20:44" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/16 12:17:28" />
+  <file source="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/16 12:12:09" />
 </xapCache>

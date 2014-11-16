@@ -36,7 +36,6 @@ F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Beautif
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Properties\WMAppManifest.xml
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\AppManifest.xaml
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\BeautifulPuzzle_Release_AnyCPU.xap
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.xml
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\BeautifulPuzzle.csprojResolveAssemblyReference.cache
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\App.g.cs
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\ErrorPage.g.cs
@@ -60,9 +59,12 @@ F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\Multipl
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\ProjectArchitectures.txt
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\MDILProjectFiles.xml
 F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\obj\Release\XapCacheFile.xml
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.dll
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.UI.dll
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.UI.xml
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.xml
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.Common.dll
-F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Advertising.Mobile.Common.xml
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Google.ProtocolBuffersLite.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Google.ProtocolBuffersLite.Serialization.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ImageTools.Controls.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ImageTools.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ImageTools.IO.Gif.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ImageTools.IO.Png.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\ImageTools.Utils.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\MSNADSDK.dll
+F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\Microsoft.Phone.Controls.Maps.dll

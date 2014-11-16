@@ -16,6 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Resources;
 using Microsoft.Phone.Shell;
 using System.IO.IsolatedStorage;
+using MSNADSDK.AD;
 
 namespace BeautifulPuzzle
 {
@@ -372,7 +373,7 @@ namespace BeautifulPuzzle
             return day;
         }
 
-        private void AdView_ReceivedAd(object sender, GoogleAds.AdEventArgs e)
+        private void AdView_AdActionEvent(object sender, AdActionEventArgs args)
         {
             int count = this.GetCount();
             DateTime day = this.GetClickDate();

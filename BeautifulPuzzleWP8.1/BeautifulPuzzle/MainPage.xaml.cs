@@ -10,22 +10,49 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using Microsoft.Phone.Controls;
-
 using System.Windows.Navigation;
 using Microsoft.Phone.Shell;
 using System.Windows.Media.Imaging;
 using System.IO.IsolatedStorage;
-using GoogleAds;
+using MSNADSDK.AD;
 
 
 namespace BeautifulPuzzle
 {
+
+    
+
     public partial class MainPage : PhoneApplicationPage
     {
+        private string defaultAppid = "100000";
+        private string defaultAdId = "100000";
+        private string defaultIntersitialAdId = "100004";
+        private string defaultSerectKey = "1d89bd7887494e39ad5b0d606f1b7360";
+
         // 构造函数
         public MainPage()
         {
             InitializeComponent();
+        }
+
+        private void AddAD()
+        {
+            AdView adView = new AdView();
+
+            adView.Appid = defaultAppid;
+            adView.SecretKey = defaultSerectKey;
+            adView.SizeForAd = AdSize.Large;
+            adView.Adid = defaultAdId;
+            adView.TelCapability = true;
+            //adView.IsInterstitial = true;
+            //adView.Adid = defaultIntersitialAdId;
+
+            adArea.Children.Clear();
+            adArea.Children.Add(adView);
+
+
+            adView.VerticalAlignment = System.Windows.VerticalAlignment.Bottom;
+            adView.AdActionEvent += AdView_AdActionEvent;
         }
 
         protected override void OnNavigatedTo(NavigationEventArgs e)
@@ -50,6 +77,7 @@ namespace BeautifulPuzzle
             }
 
             ImageList.ItemsSource = imageStrings;
+            this.AddAD();
         }
 
         private void Image_Tap(object sender, GestureEventArgs e)
@@ -125,7 +153,7 @@ namespace BeautifulPuzzle
             return day;
         }
 
-        private void AdView_LeavingApplication(object sender, AdEventArgs e)
+        private void AdView_AdActionEvent(object sender, AdActionEventArgs args)
         {
             int count = this.GetCount();
             DateTime day = this.GetClickDate();

@@ -19,23 +19,35 @@
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\BeautifulPuzzle.dll">
       <PackagePath>BeautifulPuzzle.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.dll">
-      <PackagePath>Microsoft.Advertising.Mobile.dll</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\Google.ProtocolBuffersLite.dll">
+      <PackagePath>Google.ProtocolBuffersLite.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.dll">
-      <PackagePath>Microsoft.Advertising.Mobile.UI.dll</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\Google.ProtocolBuffersLite.Serialization.dll">
+      <PackagePath>Google.ProtocolBuffersLite.Serialization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.dll">
-      <PackagePath>GoogleAds.dll</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.Controls.dll">
+      <PackagePath>ImageTools.Controls.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.UI.xml">
-      <PackagePath>Microsoft.Advertising.Mobile.UI.xml</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.dll">
+      <PackagePath>ImageTools.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.0\ExtensionSDKs\MSAdvertising\6.1\References\CommonConfiguration\neutral\Microsoft.Advertising.Mobile.xml">
-      <PackagePath>Microsoft.Advertising.Mobile.xml</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.IO.Gif.dll">
+      <PackagePath>ImageTools.IO.Gif.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Bin\Release\GoogleAds.xml">
-      <PackagePath>GoogleAds.xml</PackagePath>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.IO.Png.dll">
+      <PackagePath>ImageTools.IO.Png.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\ImageTools.Utils.dll">
+      <PackagePath>ImageTools.Utils.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.Maps.dll">
+      <PackagePath>Microsoft.Phone.Controls.Maps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\packages\MSNADSDK\MSNADSDK.dll">
+      <PackagePath>MSNADSDK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\ADSimple.csproj.user">
+      <PackagePath>ADSimple.csproj.user</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\BeautifulPuzzleWP8.1\BeautifulPuzzle\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>

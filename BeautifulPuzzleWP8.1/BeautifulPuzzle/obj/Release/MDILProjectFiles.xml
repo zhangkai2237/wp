@@ -3,6 +3,7 @@
   <XAPFiles>
     <File>resources.pri</File>
     <File>BeautifulPuzzle.dll</File>
+    <File>ADSimple.csproj.user</File>
     <File>Assets\BadgeLogo.png</File>
     <File>Assets\Logo.png</File>
     <File>Assets\SplashScreen.png</File>
@@ -50,8 +51,15 @@
     <File>Big\4.jpg</File>
     <File>Big\2.jpg</File>
     <File>AppManifest.xaml</File>
-    <File>GoogleAds.dll</File>
-    <File>GoogleAds.xml</File>
+    <File Type="PCL">Google.ProtocolBuffersLite.dll</File>
+    <File Type="PCL">Google.ProtocolBuffersLite.Serialization.dll</File>
+    <File>ImageTools.Controls.dll</File>
+    <File>ImageTools.dll</File>
+    <File>ImageTools.IO.Gif.dll</File>
+    <File>ImageTools.IO.Png.dll</File>
+    <File>ImageTools.Utils.dll</File>
+    <File>Microsoft.Phone.Controls.Maps.dll</File>
+    <File>MSNADSDK.dll</File>
     <File>Assets\100_100.png</File>
     <File>Assets\Tiles\336_336.png</File>
     <File>WMAppManifest.xml</File>
