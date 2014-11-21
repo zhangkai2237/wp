@@ -1,12 +1,12 @@
-﻿<xapCache source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/19 22:53:02">
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/19 22:53:01" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.dll" archivePath="ConvertMoney.dll" lastWriteTime="2014/11/19 22:53:01" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/19 22:46:22" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/19 22:46:22" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/19 22:46:22" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/19 22:46:22" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/19 22:46:22" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/19 22:46:22" />
+﻿<xapCache source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/21 22:16:22">
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/21 22:13:21" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.dll" archivePath="ConvertMoney.dll" lastWriteTime="2014/11/21 22:03:56" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/21 21:58:30" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/21 21:58:19" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/17 22:28:58" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/21 21:56:16" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/21 21:57:56" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/21 21:58:08" />
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/19 22:46:22" />
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/19 22:47:31" />
@@ -14,7 +14,7 @@
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/19 22:47:31" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/19 22:53:02" />
-  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/19 22:53:02" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/21 22:16:22" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/21 22:16:22" />
+  <file source="F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/21 22:13:21" />
 </xapCache>

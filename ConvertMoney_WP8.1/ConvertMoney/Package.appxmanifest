@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest" xmlns:m3="http://schemas.microsoft.com/appx/2014/manifest" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest">
 
-  <Identity Name="dc8a835a-4cf4-4423-b97f-8de910221bf1"
-            Publisher="CN=Kevin"
+  <Identity Name="40863.484025BFEDD75"
+            Publisher="CN=B2AB4885-2521-456D-AC91-302402952C11"
             Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="a933f23d-95b2-4d4b-bb9c-b9678aa8b042" PhonePublisherId="b35dcfaa-c863-4103-a698-1f8cdb443956"/>
 
   <Properties>
     <DisplayName>ConvertMoney</DisplayName>
-    <PublisherDisplayName>Kevin</PublisherDisplayName>
+    <PublisherDisplayName>北京人人信息技术有限公司</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

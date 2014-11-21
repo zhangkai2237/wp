@@ -12,6 +12,14 @@
     <FallbackCulture>zh-CN</FallbackCulture>
     <VerifyUploadedFiles>false</VerifyUploadedFiles>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <CurrentDeployCmdId>256</CurrentDeployCmdId>
+    <CurrentDeployID>57B0267A-6444-41EB-9127-2ED594284A2D</CurrentDeployID>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <CurrentDeployCmdId>256</CurrentDeployCmdId>
+    <CurrentDeployID>57B0267A-6444-41EB-9127-2ED594284A2D</CurrentDeployID>
+  </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
       <FlavorProperties GUID="{C089C8C0-30E0-4E22-80C0-CE093F111A43}">
