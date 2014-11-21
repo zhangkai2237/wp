@@ -1,0 +1,1 @@
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\ConvertMoney.csproj;neutral

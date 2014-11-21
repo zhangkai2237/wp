@@ -1,0 +1,43 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\Bin\Release\KDictionary.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\KDictionary.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KDictionary\KDictionary\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\Background.png
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\ApplicationIcon.png
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary.dll
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary.pdb
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\AppManifest.xaml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary_Release_AnyCPU.xap
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\App.g.cs
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\MainPage.g.cs
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\KDictionary.g.resources
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\KDictionary.dll
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\KDictionary.pdb
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\resources.pri
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\AppxManifest.xml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary.build.appxrecipe
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\KDictionary.csproj.GenerateResource.Cache
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\priconfig.xml
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\priconfig.xml.intermediate
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\layout.resfiles
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\layout.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\resources.resfiles
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\resources.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\pri.resfiles
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\pri.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\qualifiers.txt
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\qualifiers.txt.intermediate
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\ProjectArchitectures.txt
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\MDILProjectFiles.xml

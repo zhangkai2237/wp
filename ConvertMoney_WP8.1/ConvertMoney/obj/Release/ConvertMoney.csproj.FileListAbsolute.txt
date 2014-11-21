@@ -1,0 +1,62 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertNum.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\CurrencySymbols.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\obj\Release\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\MarketPlace\ConvertMoney\ConvertMoney\Bin\Release\Background.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ApplicationIcon.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\Background.png
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.dll
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.pdb
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\AppManifest.xaml
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\Bin\Release\ConvertMoney.xap
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.csprojResolveAssemblyReference.cache
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\App.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertNum.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\CurrencySymbols.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\MainPage.g.cs
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.g.resources
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.dll
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\ConvertMoney.pdb
+F:\资料\已上传应用\ConvertMoney\ConvertMoney\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ApplicationIcon.png
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\Background.png
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney.dll
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney.pdb
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\resources.pri
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\AppxManifest.xml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney.build.appxrecipe
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\AppManifest.xaml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\Bin\Release\ConvertMoney_Release_AnyCPU.xap
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\App.g.cs
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertNum.g.cs
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\CurrencySymbols.g.cs
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\MainPage.g.cs
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.g.resources
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.dll
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.pdb
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ConvertMoney.csproj.GenerateResource.Cache
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\priconfig.xml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\priconfig.xml.intermediate
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\layout.resfiles
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\layout.resfiles.intermediate
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\resources.resfiles
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\resources.resfiles.intermediate
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\pri.resfiles
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\pri.resfiles.intermediate
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\qualifiers.txt
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\qualifiers.txt.intermediate
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\ProjectArchitectures.txt
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\MDILProjectFiles.xml
+F:\CodeManage\GitHub\WP\ConvertMoney_WP8.1\ConvertMoney\obj\Release\XapCacheFile.xml

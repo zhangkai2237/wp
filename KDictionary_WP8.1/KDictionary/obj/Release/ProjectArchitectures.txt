@@ -1,0 +1,1 @@
+F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\KDictionary.csproj;neutral

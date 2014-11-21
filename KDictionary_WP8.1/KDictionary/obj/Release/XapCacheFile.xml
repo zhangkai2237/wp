@@ -1,0 +1,21 @@
+﻿<xapCache source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/17 22:42:42">
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/17 22:35:26" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\KDictionary.dll" archivePath="KDictionary.dll" lastWriteTime="2014/11/17 22:32:15" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/17 22:23:26" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/17 22:21:24" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/17 22:28:58" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/17 22:20:23" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/17 22:20:46" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/17 22:21:12" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/17 22:17:55" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/17 22:31:40" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/17 22:42:42" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/17 22:42:42" />
+  <file source="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/17 22:35:26" />
+</xapCache>

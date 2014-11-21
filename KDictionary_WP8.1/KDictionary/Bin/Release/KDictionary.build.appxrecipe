@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b436352b-7d25-4cf5-88d5-6727bedca99d</PackageIdentityName>
+    <IntermediateOutputPath>F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\KDictionary.dll">
+      <PackagePath>KDictionary.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\ServiceReferences.ClientConfig">
+      <PackagePath>ServiceReferences.ClientConfig</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\KDictionary_WP8.1\KDictionary\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
