@@ -1,0 +1,1 @@
+F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\PixelDetection.csproj;neutral
