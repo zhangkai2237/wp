@@ -1,0 +1,17 @@
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\ApplicationIcon.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Background.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\KBrowser.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\KBrowser.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\AppManifest.xaml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\KBrowser.xap
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\ResolveAssemblyReference.cache
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\App.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\MainPage.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\KBrowser.g.resources
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\KBrowser.dll
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\KBrowser.pdb
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\XapCacheFile.xml
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\Browser.g.i.cs
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.back.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.next.png
+F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.refresh.png
