@@ -1,0 +1,1 @@
+F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\IPQuery.csproj;neutral

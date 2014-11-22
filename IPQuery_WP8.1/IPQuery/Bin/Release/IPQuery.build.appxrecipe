@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>212c1487-f233-4f79-94ff-944de1ac1764</PackageIdentityName>
+    <IntermediateOutputPath>F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Bin\Release\IPQuery.dll">
+      <PackagePath>IPQuery.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\ServiceReferences.ClientConfig">
+      <PackagePath>ServiceReferences.ClientConfig</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\IPQuery_WP8.1\IPQuery\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
