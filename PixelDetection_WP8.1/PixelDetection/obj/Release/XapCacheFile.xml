@@ -1,6 +1,6 @@
-﻿<xapCache source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\PixelDetection_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/22 15:43:39">
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/22 15:43:38" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\PixelDetection.dll" archivePath="PixelDetection.dll" lastWriteTime="2014/11/22 15:33:13" />
+﻿<xapCache source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\PixelDetection_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/22 16:42:17">
+  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/22 16:42:16" />
+  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\PixelDetection.dll" archivePath="PixelDetection.dll" lastWriteTime="2014/11/22 16:42:16" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/22 15:37:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/22 15:36:58" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/17 22:28:58" />
@@ -9,21 +9,16 @@
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/22 15:36:46" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/22 15:13:26" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/11/15 12:42:07" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/22 15:31:49" />
+  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/22 16:42:17" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\Google.ProtocolBuffersLite.dll" archivePath="Google.ProtocolBuffersLite.dll" lastWriteTime="2013/5/8 5:38:54" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\Google.ProtocolBuffersLite.Serialization.dll" archivePath="Google.ProtocolBuffersLite.Serialization.dll" lastWriteTime="2013/5/8 5:38:55" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.Controls.dll" archivePath="ImageTools.Controls.dll" lastWriteTime="2014/1/20 14:35:53" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.dll" archivePath="ImageTools.dll" lastWriteTime="2014/1/20 14:35:53" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.IO.Gif.dll" archivePath="ImageTools.IO.Gif.dll" lastWriteTime="2014/1/20 14:35:54" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.IO.Png.dll" archivePath="ImageTools.IO.Png.dll" lastWriteTime="2014/1/20 14:35:54" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.Utils.dll" archivePath="ImageTools.Utils.dll" lastWriteTime="2014/1/20 14:35:55" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\MSNADSDK.dll" archivePath="MSNADSDK.dll" lastWriteTime="2014/6/20 10:59:09" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Lib\UmengAnalyticsWP8.dll" archivePath="UmengAnalyticsWP8.dll" lastWriteTime="2014/11/15 12:42:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
   <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/22 15:13:41" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/22 15:43:39" />
-  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/22 15:43:38" />
+  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/22 16:42:17" />
+  <file source="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/22 16:42:16" />
 </xapCache>

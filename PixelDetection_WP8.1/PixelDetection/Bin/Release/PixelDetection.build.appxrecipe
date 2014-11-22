@@ -25,21 +25,6 @@
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\Google.ProtocolBuffersLite.Serialization.dll">
       <PackagePath>Google.ProtocolBuffersLite.Serialization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.Controls.dll">
-      <PackagePath>ImageTools.Controls.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.dll">
-      <PackagePath>ImageTools.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.IO.Gif.dll">
-      <PackagePath>ImageTools.IO.Gif.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.IO.Png.dll">
-      <PackagePath>ImageTools.IO.Png.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\ImageTools.Utils.dll">
-      <PackagePath>ImageTools.Utils.dll</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\MSNADSDK\MSNADSDK.dll">
       <PackagePath>MSNADSDK.dll</PackagePath>
     </AppxPackagedFile>

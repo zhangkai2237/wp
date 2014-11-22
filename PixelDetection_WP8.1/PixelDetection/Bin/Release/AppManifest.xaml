@@ -3,11 +3,6 @@
     <AssemblyPart x:Name="PixelDetection" Source="PixelDetection.dll" />
     <AssemblyPart x:Name="Google.ProtocolBuffersLite" Source="Google.ProtocolBuffersLite.dll" />
     <AssemblyPart x:Name="Google.ProtocolBuffersLite.Serialization" Source="Google.ProtocolBuffersLite.Serialization.dll" />
-    <AssemblyPart x:Name="ImageTools.Controls" Source="ImageTools.Controls.dll" />
-    <AssemblyPart x:Name="ImageTools" Source="ImageTools.dll" />
-    <AssemblyPart x:Name="ImageTools.IO.Gif" Source="ImageTools.IO.Gif.dll" />
-    <AssemblyPart x:Name="ImageTools.IO.Png" Source="ImageTools.IO.Png.dll" />
-    <AssemblyPart x:Name="ImageTools.Utils" Source="ImageTools.Utils.dll" />
     <AssemblyPart x:Name="MSNADSDK" Source="MSNADSDK.dll" />
     <AssemblyPart x:Name="UmengAnalyticsWP8" Source="UmengAnalyticsWP8.dll" />
   </Deployment.Parts>

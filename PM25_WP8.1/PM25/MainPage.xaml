@@ -15,34 +15,199 @@
                             SupportedOrientations="Portrait"
                             Orientation="Portrait"
                             shell:SystemTray.IsVisible="False"
-                            shell:SystemTray.Opacity="0.1"
                             Loaded="PhoneApplicationPage_Loaded_1">
 
     <!--LayoutRoot 是包含所有页面内容的根网格-->
     <Grid x:Name="LayoutRoot">
-        <Grid.Background>
-            <ImageBrush Stretch="Fill" ImageSource="/Images/new.jpg"/>
-        </Grid.Background>
-        <Grid Height="100" VerticalAlignment="Top">
-            <Grid.Background>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.1">
-                    <GradientStop Color="Black" Offset="0"/>
-                    <GradientStop Color="White" Offset="1"/>
-                </LinearGradientBrush>
-            </Grid.Background>
-            <TextBlock Text="上海" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="46" FontFamily="YouYuan" />
-        </Grid>
-        <Grid Height="200" VerticalAlignment="Bottom">
-            <Grid.Background>
-                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0" Opacity="0.1">
-                    <GradientStop Color="#FFFDFDFD" Offset="0"/>
-                    <GradientStop Color="#FF060606" Offset="1"/>
-                </LinearGradientBrush>
-            </Grid.Background>
-            <TextBlock Text="87" FontSize="80" Margin="20 0 0 0" FontFamily="font/new3.ttf#HelveticaNeue LT 33 ThinEx" />
-            <TextBlock Text="良" VerticalAlignment="Center" Margin="20 0 0 0" FontSize="30" FontFamily="Yu Gothic" />
-        </Grid>
         
+        <controls:Pivot Title="空气质量检测">
+            <controls:Pivot.Background>
+                <ImageBrush Stretch="UniformToFill"
+                            ImageSource="/Images/background.jpg" />
+            </controls:Pivot.Background>
+
+            <controls:PivotItem Header="空气质量">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height=".2*" />
+                        <RowDefinition Height=".3*" />
+                        <RowDefinition Height=".3*" />
+                        <RowDefinition Height=".2*" />
+                    </Grid.RowDefinitions>
+                    
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width=".5*" />
+                            <ColumnDefinition Width=".6*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Name="Area"
+                                   Grid.Column="0"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center">
+                        </TextBlock>
+                        <TextBlock Grid.Column="1"
+                                   Name="AQI"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Right">
+                        </TextBlock>
+                    </Grid>
+                    <TextBlock Grid.Row="1"
+                               Name="Quality"
+                               FontSize="120"
+                               HorizontalAlignment="Center" />
+                    <Grid Grid.Row="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Row="0"
+                                   Grid.Column="0"
+                                   Text="PM2.5"
+                                   FontSize="30"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Grid.Row="0"
+                                   Grid.Column="1"
+                                   Text="PM10"
+                                   FontSize="30"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Grid.Row="0"
+                                   Grid.Column="2"
+                                   Text="SO2"
+                                   FontSize="30"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Grid.Row="0"
+                                   Grid.Column="3"
+                                   Text="NO2"
+                                   FontSize="30"
+                                   VerticalAlignment="Bottom"
+                                   HorizontalAlignment="Center" />
+
+                        <TextBlock Name="Pm25"
+                                   Grid.Row="1"
+                                   Grid.Column="0"
+                                   FontSize="30"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Name="Pm10"
+                                   Grid.Row="1"
+                                   Grid.Column="1"
+                                   FontSize="30"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Name="SO2"
+                                   Grid.Row="1"
+                                   Grid.Column="2"
+                                   FontSize="30"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center" />
+                        <TextBlock Name="NO2"
+                                   Grid.Row="1"
+                                   Grid.Column="3"
+                                   FontSize="30"
+                                   VerticalAlignment="Center"
+                                   HorizontalAlignment="Center" />
+                    </Grid>
+
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Panorama 项目二-->
+            <controls:PivotItem Header="监测点">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height=".15*" />
+                        <RowDefinition Height=".85*" />
+                    </Grid.RowDefinitions>
+                    <Grid Margin="10 0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="160" />
+                            <ColumnDefinition Width="80" />
+                            <ColumnDefinition Width="90" />
+                            <ColumnDefinition Width="90" />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0"
+                                   VerticalAlignment="Center"
+                                   
+                                   FontSize="30"
+                                   Text="监测站" />
+                        <TextBlock Grid.Column="1"
+                                   VerticalAlignment="Center"
+                                   
+                                   FontSize="30"
+                                   Text="AQI" />
+                        <TextBlock Grid.Column="2"
+                                   VerticalAlignment="Center"
+                                   
+                                   FontSize="30"
+                                   Text="PM2.5" />
+                        <TextBlock Grid.Column="3"
+                                   VerticalAlignment="Center"
+                                   
+                                   FontSize="30"
+                                   Text="PM10" />
+                    </Grid>
+                    <ListBox Name="DetailsList"
+                             Grid.Row="1"
+                             Margin="10">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding PositionName}"
+                                               Width="160"
+                                               FontSize="20"
+                                               TextWrapping="Wrap" />
+                                    <TextBlock Text="{Binding AQI}"
+                                               Width="80"
+                                               FontSize="26"
+                                               TextWrapping="Wrap" />
+                                    <TextBlock Text="{Binding Pm25}"
+                                               Width="90"
+                                               FontSize="26"
+                                               TextWrapping="Wrap" />
+                                    <TextBlock Text="{Binding Pm10}"
+                                               Width="90"
+                                               FontSize="26"
+                                               TextWrapping="Wrap" />
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </controls:PivotItem>
+        </controls:Pivot>
+        <!--<ProgressBar HorizontalAlignment="Left"
+                     VerticalAlignment="Top"
+                     Name="progressBar1"
+                     Height="20"
+                     Width="480"
+                     Visibility="Collapsed"/>-->
     </Grid>
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True"
+                              IsMenuEnabled="True"
+                              Opacity="0.5">
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.sync.rest.png"
+                                            Text="刷新"
+                                            Click="UpdateButton_Click" />
+            <shell:ApplicationBarIconButton IconUri="/Images/appbar.feature.settings.rest.png"
+                                            Text="设置"
+                                            Click="CityButton_Click"/>
+            <!--<shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="菜单项 1"/>
+                <shell:ApplicationBarMenuItem Text="菜单项 2"/>
+            </shell:ApplicationBar.MenuItems>-->
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
 
 </phone:PhoneApplicationPage>

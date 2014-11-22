@@ -1,34 +1,51 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2009/deployment" AppPlatformVersion="7.1">
-  <App xmlns="" ProductID="{497fe768-681b-4117-8a03-014a37391eeb}" Title="PM25" RuntimeType="Silverlight" Version="1.0.0.0" Genre="apps.normal" Author="PM25 author" Description="Sample description" Publisher="PM25">
-    <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+<Deployment xmlns="http://schemas.microsoft.com/windowsphone/2014/deployment" AppPlatformVersion="8.1">
+  <DefaultLanguage xmlns="" code="zh-CN" />
+  <App xmlns="" ProductID="{497fe768-681b-4117-8a03-014a37391eeb}" Title="空气质量" RuntimeType="Silverlight" Version="1.1.0.0" Genre="apps.normal" Author="PM25 author" Description="空气质量" Publisher="Kevin" PublisherID="{4cb444e8-7844-4d8e-b7cc-d99343c89956}">
+    <IconPath IsRelative="true" IsResource="false">300_300.png</IconPath>
     <Capabilities>
-      <Capability Name="ID_CAP_GAMERSERVICES"/>
-      <Capability Name="ID_CAP_IDENTITY_DEVICE"/>
-      <Capability Name="ID_CAP_IDENTITY_USER"/>
-      <Capability Name="ID_CAP_LOCATION"/>
-      <Capability Name="ID_CAP_MEDIALIB"/>
-      <Capability Name="ID_CAP_MICROPHONE"/>
-      <Capability Name="ID_CAP_NETWORKING"/>
-      <Capability Name="ID_CAP_PHONEDIALER"/>
-      <Capability Name="ID_CAP_PUSH_NOTIFICATION"/>
-      <Capability Name="ID_CAP_SENSORS"/>
-      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT"/>
-      <Capability Name="ID_CAP_ISV_CAMERA"/>
-      <Capability Name="ID_CAP_CONTACTS"/>
-      <Capability Name="ID_CAP_APPOINTMENTS"/>
+      <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+      <Capability Name="ID_CAP_IDENTITY_USER" />
+      <Capability Name="ID_CAP_LOCATION" />
+      <Capability Name="ID_CAP_MICROPHONE" />
+      <Capability Name="ID_CAP_NETWORKING" />
+      <Capability Name="ID_CAP_PHONEDIALER" />
+      <Capability Name="ID_CAP_PUSH_NOTIFICATION" />
+      <Capability Name="ID_CAP_SENSORS" />
+      <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+      <Capability Name="ID_CAP_ISV_CAMERA" />
+      <Capability Name="ID_CAP_CONTACTS" />
+      <Capability Name="ID_CAP_APPOINTMENTS" />
+      <Capability Name="ID_CAP_MEDIALIB_AUDIO" />
+      <Capability Name="ID_CAP_MEDIALIB_PHOTO" />
+      <Capability Name="ID_CAP_MEDIALIB_PLAYBACK" />
     </Capabilities>
     <Tasks>
-      <DefaultTask Name="_default" NavigationPage="MainPage.xaml"/>
+      <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
     </Tasks>
     <Tokens>
       <PrimaryToken TokenID="PM25Token" TaskName="_default">
-        <TemplateType5>
-          <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
+        <TemplateFlip>
+          <SmallImageURI IsResource="false" IsRelative="true">106_106.png</SmallImageURI>
           <Count>0</Count>
-          <Title>PM25</Title>
-        </TemplateType5>
+          <BackgroundImageURI IsResource="false" IsRelative="true">120_120.png</BackgroundImageURI>
+          <Title>空气质量</Title>
+          <BackContent>
+          </BackContent>
+          <BackBackgroundImageURI>
+          </BackBackgroundImageURI>
+          <BackTitle>
+          </BackTitle>
+          <DeviceLockImageURI>
+          </DeviceLockImageURI>
+          <HasLarge>false</HasLarge>
+        </TemplateFlip>
       </PrimaryToken>
     </Tokens>
+    <ScreenResolutions>
+      <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+      <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+      <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+    </ScreenResolutions>
   </App>
 </Deployment>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>497fe768-681b-4117-8a03-014a37391eeb</PackageIdentityName>
+    <IntermediateOutputPath>F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Bin\Debug\PM25.dll">
+      <PackagePath>PM25.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Program Files %28x86%29\Microsoft SDKs\Windows Phone\v8.1\Libraries\Microsoft.Phone.Controls.dll">
+      <PackagePath>Microsoft.Phone.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Lib\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\ApplicationIcon.png">
+      <PackagePath>ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Background.png">
+      <PackagePath>Background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Images\appbar.feature.settings.rest.png">
+      <PackagePath>Images\appbar.feature.settings.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Images\appbar.sync.rest.png">
+      <PackagePath>Images\appbar.sync.rest.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\SplashScreenImage.jpg">
+      <PackagePath>SplashScreenImage.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Lib\Newtonsoft.Json.dll">
+      <PackagePath>Lib\Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\PM25_WP8.1\PM25\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

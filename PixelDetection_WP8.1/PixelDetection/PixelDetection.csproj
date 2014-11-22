@@ -234,21 +234,6 @@
     <Reference Include="Google.ProtocolBuffersLite.Serialization">
       <HintPath>..\MSNADSDK\Google.ProtocolBuffersLite.Serialization.dll</HintPath>
     </Reference>
-    <Reference Include="ImageTools">
-      <HintPath>..\MSNADSDK\ImageTools.dll</HintPath>
-    </Reference>
-    <Reference Include="ImageTools.Controls">
-      <HintPath>..\MSNADSDK\ImageTools.Controls.dll</HintPath>
-    </Reference>
-    <Reference Include="ImageTools.IO.Gif">
-      <HintPath>..\MSNADSDK\ImageTools.IO.Gif.dll</HintPath>
-    </Reference>
-    <Reference Include="ImageTools.IO.Png">
-      <HintPath>..\MSNADSDK\ImageTools.IO.Png.dll</HintPath>
-    </Reference>
-    <Reference Include="ImageTools.Utils">
-      <HintPath>..\MSNADSDK\ImageTools.Utils.dll</HintPath>
-    </Reference>
     <Reference Include="MSNADSDK">
       <HintPath>..\MSNADSDK\MSNADSDK.dll</HintPath>
     </Reference>

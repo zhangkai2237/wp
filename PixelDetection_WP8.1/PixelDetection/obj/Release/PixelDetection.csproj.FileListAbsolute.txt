@@ -142,9 +142,4 @@ F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\ProjectA
 F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\obj\Release\MDILProjectFiles.xml
 F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\Google.ProtocolBuffersLite.dll
 F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\Google.ProtocolBuffersLite.Serialization.dll
-F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ImageTools.Controls.dll
-F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ImageTools.dll
-F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ImageTools.IO.Gif.dll
-F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ImageTools.IO.Png.dll
-F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\ImageTools.Utils.dll
 F:\CodeManage\GitHub\WP\PixelDetection_WP8.1\PixelDetection\Bin\Release\MSNADSDK.dll

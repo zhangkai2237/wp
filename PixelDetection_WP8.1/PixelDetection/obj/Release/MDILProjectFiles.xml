@@ -16,11 +16,6 @@
     <File>ApplicationIcon.png</File>
     <File Type="PCL">Google.ProtocolBuffersLite.dll</File>
     <File Type="PCL">Google.ProtocolBuffersLite.Serialization.dll</File>
-    <File>ImageTools.Controls.dll</File>
-    <File>ImageTools.dll</File>
-    <File>ImageTools.IO.Gif.dll</File>
-    <File>ImageTools.IO.Png.dll</File>
-    <File>ImageTools.Utils.dll</File>
     <File>MSNADSDK.dll</File>
     <File>UmengAnalyticsWP8.dll</File>
     <File>WMAppManifest.xml</File>
