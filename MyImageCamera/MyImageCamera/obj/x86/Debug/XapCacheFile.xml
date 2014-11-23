@@ -1,0 +1,35 @@
+﻿<xapCache source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\MyImageCamera_Debug_x86.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/22 19:46:44">
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/22 19:23:14" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\obj\x86\Debug\MyImageCamera.dll" archivePath="MyImageCamera.dll" lastWriteTime="2014/11/22 19:23:14" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\capture-button-icon.png" archivePath="Assets\AppBar\capture-button-icon.png" lastWriteTime="2014/4/5 18:03:46" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\folder-button-icon.png" archivePath="Assets\AppBar\folder-button-icon.png" lastWriteTime="2014/4/5 18:03:46" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\save-button-icon.png" archivePath="Assets\AppBar\save-button-icon.png" lastWriteTime="2014/4/5 18:03:46" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/22 19:43:07" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/22 19:42:56" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/22 17:30:28" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/22 19:41:45" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/22 19:42:35" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/22 19:42:45" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/22 17:30:28" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\foreground.png" archivePath="foreground.png" lastWriteTime="2014/4/6 16:09:33" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Sample.jpg" archivePath="Sample.jpg" lastWriteTime="2014/4/6 16:09:33" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/22 17:30:41" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2014/11/22 19:44:25" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2014/4/5 15:08:05" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\Nokia.Graphics.Imaging.Managed.dll" archivePath="Nokia.Graphics.Imaging.Managed.dll" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.Graphics.Imaging.winmd" archivePath="Nokia.Graphics.Imaging.winmd" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.InteropServices.WindowsRuntime.winmd" archivePath="Nokia.InteropServices.WindowsRuntime.winmd" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\Nokia.Graphics.Imaging.Managed.xml" archivePath="Nokia.Graphics.Imaging.Managed.xml" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.Graphics.Imaging.dll" archivePath="Nokia.Graphics.Imaging.dll" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.Graphics.Imaging.xml" archivePath="Nokia.Graphics.Imaging.xml" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.InteropServices.WindowsRuntime.dll" archivePath="Nokia.InteropServices.WindowsRuntime.dll" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.99\lib\wp8\x86\Nokia.InteropServices.WindowsRuntime.xml" archivePath="Nokia.InteropServices.WindowsRuntime.xml" lastWriteTime="2014/4/6 15:28:24" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/22 17:30:41" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\obj\x86\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/22 19:46:43" />
+  <file source="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\x86\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/22 19:23:16" />
+</xapCache>

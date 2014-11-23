@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>58fef04b-14cc-493b-8b0f-b9d1d29e23a2</PackageIdentityName>
+    <IntermediateOutputPath>F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\ARM\Release\MyImageCamera.dll">
+      <PackagePath>MyImageCamera.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\lib\wp8\Nokia.Graphics.Imaging.Managed.dll">
+      <PackagePath>Nokia.Graphics.Imaging.Managed.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\..\..\lib\wp8\ARM\Nokia.Graphics.Imaging.dll">
+      <PackagePath>Nokia.Graphics.Imaging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\..\..\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.dll">
+      <PackagePath>Nokia.InteropServices.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\\..\..\lib\wp8\ARM\Nokia.Graphics.Imaging.winmd">
+      <PackagePath>Nokia.Graphics.Imaging.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\\..\..\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.winmd">
+      <PackagePath>Nokia.InteropServices.WindowsRuntime.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\lib\wp8\Nokia.Graphics.Imaging.Managed.xml">
+      <PackagePath>Nokia.Graphics.Imaging.Managed.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\..\..\lib\wp8\ARM\Nokia.Graphics.Imaging.xml">
+      <PackagePath>Nokia.Graphics.Imaging.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\packages\NokiaImagingSDK.1.2.151\build\wp8\..\..\lib\wp8\ARM\Nokia.InteropServices.WindowsRuntime.xml">
+      <PackagePath>Nokia.InteropServices.WindowsRuntime.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\capture-button-icon.png">
+      <PackagePath>Assets\AppBar\capture-button-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\folder-button-icon.png">
+      <PackagePath>Assets\AppBar\folder-button-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\AppBar\save-button-icon.png">
+      <PackagePath>Assets\AppBar\save-button-icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\foreground.png">
+      <PackagePath>foreground.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Sample.jpg">
+      <PackagePath>Sample.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\CodeManage\Temp&amp;Test\MyImageCamera\MyImageCamera\Bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

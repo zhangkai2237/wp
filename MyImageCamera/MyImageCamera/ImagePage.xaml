@@ -1,0 +1,54 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MyImageCamera.ImagePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="0.2*"/>
+        </Grid.RowDefinitions>
+        <Image x:Name="PhotoSample" Grid.Row="0" Stretch="Uniform"
+               VerticalAlignment="Bottom"/>
+
+        <ListBox x:Name="LstPreview" Grid.Row="1" Height="160" VerticalAlignment="Bottom" ScrollViewer.HorizontalScrollBarVisibility="Visible" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+            <ListBox.ItemsPanel>
+                <ItemsPanelTemplate>
+                    <StackPanel  Orientation="Horizontal"/>
+                    <!--VirtualizingStackPanel-->
+                </ItemsPanelTemplate>
+            </ListBox.ItemsPanel>
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Border 
+                            BorderBrush="Wheat" Width="106" Height="106" 
+                            Margin="10,20,20,0" Tap="Border_Tap">
+                            <Canvas>
+                                <Image Loaded="Image_Loaded"/>
+                            </Canvas>
+                        </Border>
+                        <Border Width="106" Height="30" BorderBrush="Wheat">
+                            <TextBlock Text="{Binding Name}" FontSize="14" 
+                                           HorizontalAlignment="Center" 
+                                           VerticalAlignment="Center"
+                                           FontFamily="Comic Sans MS"/>
+                        </Border>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+    </Grid>
+</phone:PhoneApplicationPage>

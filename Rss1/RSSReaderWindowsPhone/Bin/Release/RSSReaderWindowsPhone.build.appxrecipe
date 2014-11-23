@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEVIN-PC</Machine>
+    <WindowsUser>Kevin</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6d843958-160f-4bd1-9d3e-46e6be0c552b</PackageIdentityName>
+    <IntermediateOutputPath>E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.dll">
+      <PackagePath>RSSReaderWindowsPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\200_200.png">
+      <PackagePath>Assets\200_200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\appbar.back.png">
+      <PackagePath>Assets\appbar.back.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\appbar.next.png">
+      <PackagePath>Assets\appbar.next.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
