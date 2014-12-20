@@ -92,7 +92,14 @@ F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDete
 F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\PixelDetection.pdb
 F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\XapCacheFile.xml
 F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\PixelDetection_Release_AnyCPU.xap
-F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\GoogleAds.dll
-F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\GoogleAds.xml
 F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\obj\Release\AD.g.cs
 F:\CodeManage\GitHub\wp\PixelDetection - WP\PixelDetection\Bin\Release\UmengAnalyticsWP8.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\Google.ProtocolBuffersLite.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\Google.ProtocolBuffersLite.Serialization.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\ImageTools.Controls.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\ImageTools.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\ImageTools.IO.Gif.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\ImageTools.IO.Png.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\ImageTools.Utils.dll
+F:\CodeManage\GitHub\WP\PixelDetection - WP\PixelDetection\Bin\Release\MSNADSDK.dll

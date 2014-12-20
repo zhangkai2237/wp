@@ -45,7 +45,7 @@ namespace KBrowser
         private void BackButton_Click(object sender, EventArgs e)
         {
             try
-            {
+            { 
                 MainBrowser.InvokeScript("eval", "history.go(-1)");
                 //NavigationService.GoBack();
             }

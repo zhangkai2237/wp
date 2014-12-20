@@ -217,8 +217,29 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="GoogleAds">
-      <HintPath>Lib\GoogleAds.dll</HintPath>
+    <Reference Include="Google.ProtocolBuffersLite">
+      <HintPath>Lib\Google.ProtocolBuffersLite.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.ProtocolBuffersLite.Serialization">
+      <HintPath>Lib\Google.ProtocolBuffersLite.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTools">
+      <HintPath>Lib\ImageTools.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTools.Controls">
+      <HintPath>Lib\ImageTools.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTools.IO.Gif">
+      <HintPath>Lib\ImageTools.IO.Gif.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTools.IO.Png">
+      <HintPath>Lib\ImageTools.IO.Png.dll</HintPath>
+    </Reference>
+    <Reference Include="ImageTools.Utils">
+      <HintPath>Lib\ImageTools.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="MSNADSDK">
+      <HintPath>Lib\MSNADSDK.dll</HintPath>
     </Reference>
     <Reference Include="UmengAnalyticsWP8">
       <HintPath>Lib\UmengAnalyticsWP8.dll</HintPath>

@@ -14,7 +14,6 @@ F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Chara
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\Character.pdb
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\obj\Release\XapCacheFile.xml
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\Character\Character\Bin\Release\SmartMad.Ads.WindowsPhone7.dll
-F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.csprojResolveAssemblyReference.cache
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\App.g.cs
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\MainPage.g.cs
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.g.resources
@@ -31,10 +30,6 @@ F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Character.build.ap
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Properties\WMAppManifest.xml
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\AppManifest.xaml
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Character_Release_AnyCPU.xap
-F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Google.ProtocolBuffersLite.dll
-F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\MicroMsgSDK.dll
-F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\SmartMad.Ads.WindowsPhone7.dll
-F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\MicroMsgSDK.xml
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.pdb
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.csproj.GenerateResource.Cache
 F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\priconfig.xml

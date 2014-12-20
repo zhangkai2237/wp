@@ -1,0 +1,72 @@
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\ApplicationIcon.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\IconicTileSmall.png
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.dll
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.pdb
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\resources.pri
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\AppxManifest.xml
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.build.appxrecipe
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\Properties\WMAppManifest.xml
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\AppManifest.xaml
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone_Release_AnyCPU.xap
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\App.g.cs
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\Content.g.cs
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\MainPage.g.cs
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.g.resources
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.Resources.AppResources.resources
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.csproj.GenerateResource.Cache
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.dll
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.pdb
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\priconfig.xml
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\priconfig.xml.intermediate
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\layout.resfiles
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\layout.resfiles.intermediate
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\resources.resfiles
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\resources.resfiles.intermediate
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\pri.resfiles
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\pri.resfiles.intermediate
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\qualifiers.txt
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\qualifiers.txt.intermediate
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\ProjectArchitectures.txt
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\MDILProjectFiles.xml
+E:\Users\凯\Downloads\RSS Reader in Windows Phone 8\C#\RSSReaderWindowsPhone\obj\Release\XapCacheFile.xml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\ApplicationIcon.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Assets\Tiles\IconicTileSmall.png
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.dll
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.pdb
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\resources.pri
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\AppxManifest.xml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone.build.appxrecipe
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\AppManifest.xaml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\Bin\Release\RSSReaderWindowsPhone_Release_AnyCPU.xap
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\App.g.cs
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\Content.g.cs
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\MainPage.g.cs
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.g.resources
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.Resources.AppResources.resources
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.csproj.GenerateResource.Cache
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.dll
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\RSSReaderWindowsPhone.pdb
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\priconfig.xml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\priconfig.xml.intermediate
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\layout.resfiles
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\layout.resfiles.intermediate
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\resources.resfiles
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\resources.resfiles.intermediate
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\pri.resfiles
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\pri.resfiles.intermediate
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\qualifiers.txt
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\qualifiers.txt.intermediate
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\MultipleQualifiersPerDimensionFound.txt
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\ProjectArchitectures.txt
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\MDILProjectFiles.xml
+F:\CodeManage\GitHub\WP\Rss1 - 副本\RSSReaderWindowsPhone\obj\Release\XapCacheFile.xml

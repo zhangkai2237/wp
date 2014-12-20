@@ -23,14 +23,14 @@ namespace KBrowser
             InitializeComponent();
         }
 
-        private void GoButon_Click(object sender, RoutedEventArgs e)
+        private void GoButon_Click(object sender, RoutedEventArgs e) 
         {
             string url = UrlTextBox.Text;
             if (url.Length > 7)
             {
                 if (url.Substring(0, 7) != "http://")
                 {
-                    url = "http://" + url;
+                    url = "http://" + url; 
                 }
             }
             else

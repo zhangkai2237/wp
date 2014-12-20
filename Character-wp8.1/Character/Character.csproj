@@ -100,17 +100,6 @@
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Google.ProtocolBuffersLite">
-      <HintPath>Lib\Google.ProtocolBuffersLite.dll</HintPath>
-    </Reference>
-    <Reference Include="MicroMsgSDK">
-      <HintPath>Lib\MicroMsgSDK.dll</HintPath>
-    </Reference>
-    <Reference Include="SmartMad.Ads.WindowsPhone7">
-      <HintPath>SmartMad\SmartMad.Ads.WindowsPhone7.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
     </Compile>

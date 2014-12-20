@@ -1,6 +1,6 @@
-﻿<xapCache source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Character_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/11/16 15:55:16">
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/11/16 14:41:35" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.dll" archivePath="Character.dll" lastWriteTime="2014/11/16 14:05:03" />
+﻿<xapCache source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Character_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/12/14 18:18:48">
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="2014/12/14 18:17:59" />
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\Character.dll" archivePath="Character.dll" lastWriteTime="2014/12/14 18:17:59" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/16 15:47:31" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/16 15:48:30" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/16 15:50:25" />
@@ -10,16 +10,12 @@
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/16 13:33:14" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\background.jpg" archivePath="background.jpg" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/11/16 13:34:58" />
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/12/14 18:17:59" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\Google.ProtocolBuffersLite.dll" archivePath="Google.ProtocolBuffersLite.dll" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\MicroMsgSDK.dll" archivePath="MicroMsgSDK.dll" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\SmartMad\SmartMad.Ads.WindowsPhone7.dll" archivePath="SmartMad.Ads.WindowsPhone7.dll" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\MicroMsgSDK.xml" archivePath="MicroMsgSDK.xml" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:06" />
   <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:06" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/11/16 13:53:00" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/11/16 15:55:16" />
-  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/11/16 14:41:35" />
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/12/14 18:18:26" />
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/12/14 18:18:48" />
+  <file source="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/12/14 18:17:59" />
 </xapCache>

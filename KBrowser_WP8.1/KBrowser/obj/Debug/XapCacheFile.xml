@@ -1,14 +1,23 @@
-﻿<xapCache source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\KBrowser.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="2012/3/3 21:02:21">
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2012/2/29 23:44:25" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Background.png" archivePath="Background.png" lastWriteTime="2012/2/29 23:16:34" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2012/2/29 23:16:34" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\obj\Debug\KBrowser.dll" archivePath="KBrowser.dll" lastWriteTime="2012/3/3 21:02:20" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.back.png" archivePath="Images\appbar.back.png" lastWriteTime="2012/3/1 22:12:12" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.next.png" archivePath="Images\appbar.next.png" lastWriteTime="2012/3/1 22:12:12" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Images\appbar.refresh.png" archivePath="Images\appbar.refresh.png" lastWriteTime="2012/3/1 22:12:12" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2012/2/29 23:16:34" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2012/2/29 23:44:25" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.back.png" archivePath="Images\appbar.back.png" lastWriteTime="2012/3/1 22:12:12" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.next.png" archivePath="Images\appbar.next.png" lastWriteTime="2012/3/1 22:12:12" />
-  <file source="F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.refresh.png" archivePath="Images\appbar.refresh.png" lastWriteTime="2012/3/1 22:12:12" />
+﻿<xapCache source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\KBrowser_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2014/12/14 15:20:26">
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2014/12/14 15:20:25" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\KBrowser.dll" archivePath="KBrowser.dll" lastWriteTime="2014/12/14 15:12:55" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2014/11/22 14:45:29" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2014/11/22 14:45:18" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="2014/11/17 22:28:58" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="2014/11/22 14:44:21" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="2014/11/22 14:44:52" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="2014/11/22 14:45:01" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2014/11/22 14:19:17" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Images\appbar.back.png" archivePath="Images\appbar.back.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Images\appbar.next.png" archivePath="Images\appbar.next.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Images\appbar.refresh.png" archivePath="Images\appbar.refresh.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2014/12/14 14:02:28" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Background.png" archivePath="Background.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="2014/11/15 12:42:07" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2014/12/14 15:20:26" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2014/12/14 15:20:26" />
+  <file source="F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2014/12/14 15:20:25" />
 </xapCache>

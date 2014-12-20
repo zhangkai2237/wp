@@ -19,18 +19,6 @@
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Bin\Release\Character.dll">
       <PackagePath>Character.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\Google.ProtocolBuffersLite.dll">
-      <PackagePath>Google.ProtocolBuffersLite.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\MicroMsgSDK.dll">
-      <PackagePath>MicroMsgSDK.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\SmartMad\SmartMad.Ads.WindowsPhone7.dll">
-      <PackagePath>SmartMad.Ads.WindowsPhone7.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Lib\MicroMsgSDK.xml">
-      <PackagePath>MicroMsgSDK.xml</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\CodeManage\GitHub\WP\Character-wp8.1\Character\Assets\BadgeLogo.png">
       <PackagePath>Assets\BadgeLogo.png</PackagePath>
     </AppxPackagedFile>

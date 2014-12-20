@@ -15,3 +15,37 @@ F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrows
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.back.png
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.next.png
 F:\Users\zhangkai\Documents\Visual Studio 2010\Projects\practice\KBrowser\KBrowser\Bin\Debug\Images\appbar.refresh.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Background.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\ApplicationIcon.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Images\appbar.back.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Images\appbar.next.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Images\appbar.refresh.png
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\KBrowser.dll
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\KBrowser.pdb
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\resources.pri
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\AppxManifest.xml
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\KBrowser.build.appxrecipe
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\Properties\WMAppManifest.xml
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\AppManifest.xaml
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\Bin\Debug\KBrowser_Debug_AnyCPU.xap
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\App.g.cs
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\Browser.g.cs
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\MainPage.g.cs
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\KBrowser.g.resources
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\KBrowser.dll
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\KBrowser.pdb
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\KBrowser.csproj.GenerateResource.Cache
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\priconfig.xml
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\priconfig.xml.intermediate
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\layout.resfiles
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\layout.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\resources.resfiles
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\resources.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\pri.resfiles
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\pri.resfiles.intermediate
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\qualifiers.txt
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\qualifiers.txt.intermediate
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\ProjectArchitectures.txt
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\MDILProjectFiles.xml
+F:\CodeManage\GitHub\WP\KBrowser_WP8.1\KBrowser\obj\Debug\XapCacheFile.xml

@@ -7,7 +7,7 @@
 
     有关程序包清单文件的详细信息，请参阅 http://go.microsoft.com/fwlink/?LinkID=241727
   -->
-  <Identity Name="40863.K" Publisher="CN=B2AB4885-2521-456D-AC91-302402952C11" Version="1.0.0.0" ProcessorArchitecture="neutral" />
+  <Identity Name="40863.K" Publisher="CN=B2AB4885-2521-456D-AC91-302402952C11" Version="1.2.0.0" ProcessorArchitecture="neutral" />
   <mp:PhoneIdentity PhoneProductId="934213c0-6907-4bf4-8296-39006d650da1" PhonePublisherId="56ecaddf-5c09-4ada-a889-a922b88a4248" />
   <Properties>
     <DisplayName>Character</DisplayName>
@@ -24,7 +24,7 @@
   <Applications>
     <Application Id="x934213c0y6907y4bf4y8296y39006d650da1x" Executable="AGHost.exe" EntryPoint="MainPage.xaml">
       <m3:VisualElements DisplayName="Character" Square150x150Logo="Assets\SquareTile150x150.png" Square44x44Logo="Assets\Logo.png" Description="Character" ForegroundText="light" BackgroundColor="#464646">
-        <m3:DefaultTile Square71x71Logo="Assets\SquareTile71x71.png" />
+        <m3:DefaultTile Square71x71Logo="Assets\SquareTile71x71.png"></m3:DefaultTile>
         <m3:SplashScreen Image="SplashScreenImage.jpg" />
       </m3:VisualElements>
       <Extensions>
@@ -36,7 +36,6 @@
       </Extensions>
     </Application>
   </Applications>
-  <Capabilities></Capabilities>
   <Extensions>
     <Extension Category="windows.activatableClass.inProcessServer">
       <InProcessServer>

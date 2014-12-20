@@ -52,13 +52,13 @@
             </TextBlock>
         </Grid>
         <!--SmartMad AdView-->
-        <SmartMad:AdView
+        <!--<SmartMad:AdView
             xmlns:SmartMad="clr-namespace:SmartMad.Ads.WindowsPhone7.WPF;assembly=SmartMad.Ads.WindowsPhone7"
             x:Name="adViews"
             AdPositionID="90016645"
             IsDebugMode="True"
             Grid.Row="2"
-            />
+            />-->
         <Grid.Background>
             <ImageBrush ImageSource="/Character;component/Images/800_480.jpg" />
         </Grid.Background>
